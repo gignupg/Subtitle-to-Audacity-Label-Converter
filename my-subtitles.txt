@@ -1,1618 +1,320 @@
-68151		72113		SEUL SUR MARS
-124290		126626		Équipage, restons groupés en visu.
-126668		127961		Faisons honneur à la NASA aujourd'hui.
-128003		129129		NASA - ARÈS III - SITE D'ATTERRISSAGE JOUR DE MISSION : SOL 18
-129170		130714		T'en es où, Watney ?
-130755		133049		Tu seras heureux d'apprendre que...
-133758		135301		dans la zone 14 28,
-135343		138138		les particules étaient plutôt grossières
-138179		140015		mais dans la 29, elles sont...
-140473		141516		plus fines,
-141558		143393		idéales pour l'analyse chimique.
-143685		146980		Oyez, oyez ! Mark a découvert la poussière.
-147022		149899		- On alerte les médias ? - Et toi, Martinez ?
-150191		152235		Tu vérifies si le VAM est debout ?
-152277		153903		L'inspection visuelle
-153945		156072		assure le succès de la mission.
-156114		158992		Et je te le confirme, le VAM est toujours debout.
-159534		161661		Watney, votre radio est allumée.
-161703		163329		Du coup, Martinez vous répond,
-163705		166249		du coup, on vous entend et ça m'agace.
-166833		169210		Martinez, le commandant te demande
-169711		171713		de fermer ta grande bouche.
-172130		175550		Concernant Martinez, le mot "bouche" me semble gentil.
-175592		177469		C'est Beck qui m'insulte ?
-177510		179095		"Docteur" Beck. Et... oui.
-179721		183141		Je peux les débrancher, commandant. Donnez l'ordre.
-183516		186102		Johanssen, nous devons communiquer...
-186144		187062		Débranchez-les !
-188563		189564		Je m'excuse !
-190732		192525		Pardonnez mes compatriotes, Vogel.
-193068		194069		Je les absous.
-194361		196112		Combien d'échantillons ?
-196571		197530		Sept.
-197572		198740		De 100 grammes chacun.
-205413		207332		Un message d'alerte-tempête.
-207749		210502		Commandant, rentrez voir ça.
-210543		212462		- Précisez. - Alerte-tempête.
-212754		214214		J'ai vu ça ce matin.
-214255		216007		On sera rentrés avant.
-216549		219010		Ils ont mis à jour l'évaluation.
-219386		220762		La tempête s'aggrave.
-227352		229270		Martinez, qu'en pensez-vous ?
-230563		231564		C'est pas bon.
-233650		237654		1 200 km de diamètre, cap à 21,41º.
-237696		238947		Elle vient vers nous.
-238988		242784		Selon les derniers calculs, sa force est de... 8 600 newtons ?
-243702		244911		À combien on annule ?
-245286		246705		À 7 500.
-248039		250166		Au-delà, le VAM basculera.
-250208		252794		- On dégage ? - Entamez la procédure.
-253461		255797		En tenant compte de la marge d'erreur,
-255839		257298		on peut attendre qu'elle passe.
-257966		259259		Attendons qu'elle passe.
-260844		261970		Attendons.
-263805		264389		Commandant ?
-265974		267809		Préparez décollage d'urgence.
-268685		270478		On dégage. C'est un ordre.
-281281		283491		Départ dans combien de temps ?
-283825		284743		12 minutes.
-288204		290081		Quasi zéro visibilité.
-290123		292334		Si vous vous perdez, suivez ma télémétrie.
-292625		293460		Prêts ?
-293501		294627		Prêt.
-297339		299007		Commandant, ça va ?
-299049		299924		Ça va.
-324574		327202		On est à 10º, le VAM basculera à 12,3º.
-328787		331414		On peut l'empêcher de basculer.
-331456		332540		Comment ?
-332582		335377		Avec les câbles du mât de communication.
-335794		337253		On l'ancrerait aux rovers.
-337754		338588		Attention !
-342008		342717		Watney !
-344803		347055		Alerte. Brèche combinaison.
-347389		348932		- Qu'y a-t-il ? - Il est blessé.
-348973		350433		Watney, situation !
-350475		353269		Son alarme-décompression s'est déclenchée.
-353311		355563		- Johanssen ? - Il est déconnecté.
-355814		357774		Ses constantes disent quoi ?
-357816		359526		Perte de signal totale.
-359567		360318		Beck !
-360694		363113		Temps de survie à une décompression ?
-363154		364280		Moins d'une minute.
-364906		366908		Alignez-vous. Direction ouest.
-367409		369911		Attention de pas le piétiner.
-371204		372163		Commandant...
-372580		374082		On est à 10,5º.
-375083		376543		On monte à 11,
-376793		378086		à cause des rafales.
-378586		379754		Bien reçu.
-380046		382298		Calez-vous sur Martinez
-382340		384384		pour rentrer au VAM et vous préparer.
-384843		386219		Et vous, commandant ?
-386261		389097		Je continue à le chercher. Foncez !
-389723		390724		Allez !
-394144		395061		Watney !
-395812		397063		Watney, situation.
-397522		399649		Inclinaison à 11,6º.
-400233		401568		Une rafale de plus, on bascule.
-401609		402861		Si ça bascule, décollez.
-403278		406072		- Je vous abandonne pas. - C'est un ordre.
-407115		408033		Mark !
-410535		411953		Vous m'entendez ?
-413580		414581		Martinez !
-414622		416583		Et le radar de proximité,
-416624		418084		il peut détecter Watney ?
-418460		422130		Il peut voir l'Hermès en orbite, pas du métal dans une combi.
-422172		423965		- Essayez. - Bien reçu.
-424382		426718		Elle sait que c'est impossible.
-426760		428970		Elle s'accroche à ce qu'elle peut.
-429012		431056		Négatif pour le radar de proximité.
-431306		432390		Rien du tout ?
-432432		434309		On ne voit même pas l'Habitat.
-435560		437437		Vous ne voulez pas l'entendre mais...
-437979		438813		Mark est mort.
-443109		444444		Ça va pas ou quoi ?
-444486		446946		Mark est mort. Je veux pas perdre Lewis.
-446988		448281		Alerte stabilité.
-448323		449491		On bascule !
-449866		453036		Commandant, revenez au vaisseau immédiatement.
-453453		454996		13º.
-455038		456539		Si on bascule, c'est irréversible.
-456831		459334		Je tente un truc et après je suis les ordres.
-461378		462837		Tu lances le SMO ?
-463588		464381		Affirmatif.
-468468		469469		Commandant !
-470095		471221		Je rentre.
-474933		476059		Johanssen, on y va !
-497956		499124		11,5º, stabilisé.
-503044		504754		J'attends vos ordres.
-506423		507465		Parés au décollage.
-508967		509968		Commandant.
-510510		512387		Vous devez le dire.
-512429		513221		Décollage.
-554929		557891		À environ 4 h 30, heure centrale standard,
-557932		560268		nos satellites ont détecté une tempête
-560310		563229		s'approchant du site d'Arès 3 sur Mars.
-563271		566566		À 6 h 45, la tempête s'étant fortement aggravée,
-566608		569778		nous avons été contraints d'annuler la mission.
-569819		572489		Grâce à la réactivité du commandant Lewis,
-572530		575742		les astronautes Beck, Johanssen, Martinez et Vogel
-575784		578578		ont pu regagner le véhicule d'ascension
-578620		582791		et effectuer un décollage d'urgence à 7 h 28, heure centrale.
-583792		586127		Malheureusement, pendant l'évacuation,
-586169		590757		l'astronaute Mark Watney, heurté par un débris, a été tué.
-591633		596096		Lewis et son équipage ont réussi à intercepter l'Hermès
-596137		598264		et sont sur le trajet du retour.
-598306		600809		Mais Mark Watney est mort.
-601184		602352		M. le directeur !
-603520		604646		M. Sanders !
-636845		638972		Niveau oxygène critique.
-734317		735860		Pression stable.
-916624		917459		Putain.
-951701		953119		Bonjour, je suis...
-953161		955497		Mark Watney, astronaute.
-956498		959125		Ce journal servira de témoignage
-959834		961920		au cas où je m'en sortirais pas.
-962545		963630		Il est...
-965382		966925		6 h 53
-967509		969886		à Sol 19 et...
-970845		972138		je suis vivant.
-973306		974808		Manifestement.
-975517		979854		Mais ça va faire un choc à mes coéquipiers et à la Nasa.
-980730		983316		Ainsi qu'au monde entier. Donc...
-986528		987696		Surprise !
-989197		991408		Je ne suis pas mort à Sol 18.
-991866		993493		La seule explication,
-993535		997372		c'est que l'antenne de communications s'est brisée
-997414		999666		et a transpercé mon bio-moniteur
-999708		1002544		et mon corps, par la même occasion.
-1002877		1006006		Mais l'antenne et mon sang
-1006047		1009759		ont scellé la brèche dans ma tenue et m'ont sauvé la vie.
-1009801		1012345		Alors que l'équipage me croyait mort.
-1013054		1015265		Je n'ai aucun moyen de contacter la Nasa.
-1015724		1017684		Et même si j'y parvenais,
-1018059		1021479		je devrais attendre 4 ans une prochaine mission.
-1022063		1024566		Cet Habitat est conçu pour durer 31 jours.
-1024607		1026860		Si l'oxygénateur me lâche, je suffoque.
-1026901		1029404		Si c'est le recycleur d'eau, je crève de soif.
-1029446		1031823		Si l'Habitat se fissure,
-1031865		1033074		j'implose.
-1034242		1037078		Et si par miracle, rien de tout ça n'arrive,
-1037829		1039956		j'aurai plus rien à manger.
-1041624		1042625		Donc...
-1159159		1160702		Je crèverai pas ici.
-1201076		1202202		32...
-1203495		1204704		33...
-1206831		1208083		34...
-1209584		1211252		35, 36.
-1211503		1213922		Poulet aigre-doux.
-1239280		1241491		Ne pas ouvrir avant Thanksgiving !!
-1242492		1243868		C'est quoi, ça ?
-1254462		1256631		Bon, calculons un peu.
-1257090		1260677		Notre mission en surface était censée durer 31 Sols.
-1260719		1264097		Ils ont envoyé 68 Sols de vivres pour 6 personnes.
-1264139		1266850		Moi tout seul, j'ai de quoi tenir 300 Sols,
-1266891		1269060		que je peux allonger à 400.
-1269102		1271563		Donc, faut que je trouve le moyen
-1271896		1273106		de cultiver
-1273481		1275525		assez de nourriture pour 3 ans.
-1276067		1278278		Sur une planète où rien ne pousse.
-1279070		1280155		Par chance,
-1282907		1284409		je suis botaniste.
-1287829		1288913		Mars
-1288955		1290832		aura bientôt les jetons
-1291082		1292625		de mes pouvoirs de botaniste.
-1296546		1298506		Excréments humains
-1337462		1339047		Pression stable.
-1349766		1351184		Une agrafe a sauté.
-1401276		1402694		Je t'emmerde, Mars.
-1418126		1419586		Johanssen, putain...
-1481690		1483483		Le problème, c'est l'eau.
-1484401		1489030		J'ai créé 126 mètres carrés de terre,
-1489614		1493243		mais un mètre cube de terre nécessite 40 litres d'eau
-1493284		1494703		pour être cultivable.
-1495036		1498039		Il faut donc que je produise beaucoup plus d'eau.
-1499082		1501042		Heureusement, j'ai la recette :
-1501626		1503545		hydrogène et oxygène brûlés.
-1504212		1505547		Je dispose
-1505964		1508133		de centaines de litres d'hydrazine
-1508174		1509509		dans le VDM.
-1509968		1512595		Passée dans un catalyseur en iridium,
-1512971		1514973		elle se décompose en N2 et H2.
-1515598		1517851		Ensuite, je dirige l'hydrogène
-1517892		1519519		vers une petite zone
-1520186		1521438		et je le brûle.
-1522230		1524399		Ce qui est rassurant, c'est que depuis toujours,
-1525358		1528069		il n'est jamais rien arrivé de bien grave
-1528111		1529904		en brûlant de l'hydrogène.
-1530780		1532532		La Nasa a horreur du feu.
-1532574		1536786		C'est bien connu : "S'il y a le feu, tout le monde crève, dans l'espace."
-1536828		1540331		Donc, tout notre matériel est ignifugé,
-1540623		1543084		à l'exception notable...
-1544794		1546796		des effets personnels de Martinez.
-1547589		1548923		Désolé, Martinez,
-1548965		1551134		mais fallait pas me laisser pour mort
-1551176		1553011		sur une planète déserte.
-1553970		1557807		Et Toi, j'imagine que Tu m'en voudras pas trop, vu ma situation.
-1560226		1561603		Je compte sur Toi.
-1595428		1596888		Bon, voilà,
-1596930		1598640		j'ai tout fait sauter.
-1599140		1600308		À mon avis,
-1601476		1603103		j'ai oublié de...
-1604145		1606815		tenir compte de l'excédent d'oxygène
-1607732		1611111		que j'exhale, quand j'ai fait les calculs.
-1611945		1613697		Parce que je suis très con.
-1616700		1618827		Allez, je vais m'y remettre,
-1619077		1621663		dès que j'entendrai plus ce sifflement.
-1626459		1630630		Notez que c'est comme ça que le Jet Propulsion Lab a été créé.
-1630672		1634300		Cinq étudiants de Caltech, en faisant du carburant pour fusées,
-1634342		1636261		ont failli cramer leur dortoir.
-1636302		1638763		Plutôt que de les virer, on les a enfermés
-1639514		1642183		dans une ferme en leur disant de continuer.
-1642892		1645020		Notre programme spatial était né.
-1726601		1727769		Salut, toi.
-1738279		1741533		Mark a été une bénédiction pour notre programme spatial.
-1742117		1744411		Tandis que nous pleurerons sa perte,
-1744452		1747122		les hommes et femmes de la Nasa poursuivront
-1747163		1749124		sans relâche leur mission au sein de l'agence.
-1749165		1750542		TEDDY SANDERS Directeur de la Nasa
-1750583		1754504		Ils font ainsi honneur à l'héritage que Mark laisse derrière lui.
-1755088		1755964		Grâce à eux,
-1756006		1757549		il ne sera pas mort en vain.
-1757590		1759592		CENTRE SPATIAL JOHNSON HOUSTON, TEXAS
-1762762		1765682		VINCENT KAPOOR Directeur des missions martiennes, Nasa
-1769561		1772564		Je ne parle pas seulement au nom de la Nasa,
-1773064		1774774		mais pour le monde entier...
-1774816		1776860		J'ai beaucoup aimé votre discours.
-1780071		1783074		- Donnez-moi du temps satellite. - Pas question.
-1783491		1787662		On nous a financé 5 missions Arès, le Congrès en autorisera une 6e.
-1788038		1792334		Arès 3 a évacué au bout de 18 Sols, la moitié des vivres y est encore.
-1792375		1794878		Ça coûterait une fraction du prix normal.
-1794919		1797464		Je dois savoir le matériel qui reste.
-1797505		1801134		Le temps satellite est précieux. On doit ravitailler Arès 4,
-1801176		1803636		priorité au cratère de Schiaparelli.
-1803678		1805597		Sur 12 satellites, on peut...
-1805638		1807849		Ce n'est pas la question, Vincent.
-1807891		1810185		En tant qu'organisation publique,
-1810226		1811936		on a un devoir de transparence.
-1812270		1816399		Si on pointe un satellite sur l'Habitat, j'expose la dépouille de Watney.
-1816649		1818234		Vous avez peur des médias ?
-1818276		1819903		Évidemment !
-1819944		1821279		Une autre mission ?
-1821321		1823782		Le Congrès ne remboursera pas nos trombones
-1823823		1826868		si j'affiche un astronaute mort à la une du Washington Post.
-1827118		1829412		Il va pas s'envoler, Teddy.
-1830121		1831831		Il va pas se décomposer.
-1831873		1833875		Il est là-haut pour toujours.
-1834209		1838129		Les climatologues estiment qu'il sera recouvert de sable en un an.
-1838463		1840173		Un an ? On a du boulot !
-1840215		1843093		Arès 5 ne décolle que dans 5 ans, on a le temps.
-1848431		1850183		Voici ce que je vous propose.
-1851309		1852352		Pour l'instant,
-1852894		1856147		les gens sont de notre côté, ils ont de la peine pour les Watney.
-1856731		1859317		Arès 6 pourrait rapatrier son corps.
-1860276		1863738		Sans en être le but, ça ferait partie de la mission.
-1863780		1864989		On présente ça comme ça.
-1865699		1868910		Le Congrès nous soutiendra, mais pas dans un an.
-1869869		1872163		Dans un an, tout le monde s'en foutra.
-1887762		1891433		CENTRE DE CONTRÔLE, NASA Centre spatial Johnson, Houston, Texas
-1897480		1901901		MINDY PARK Communications satellite, Nasa
-1904154		1905196		Vincent Kapoor...
-1906531		1908742		Bonsoir Mindy, Vérifiez ces coordonnées
-1911619		1912746		6, 2...
-1914456		1915749		7, 6, 2.
-1919461		1921296		Acidalia Planitia...
-1933058		1933850		Mais...
-1949199		1950283		La sécurité ?
-1950617		1954788		Mindy Park, de SatCon. Le numéro d'urgence de Vincent Kapoor.
-1955538		1956539		Oui, lui.
-1957499		1959000		Oui, c'est une urgence !
-1964381		1965256		C'est sûr ?
-1965840		1966841		À 100 %.
-1967592		1969302		Vous vous foutez de moi ?
-1969344		1970345		ANNIE MONTROSE Directrice des relations médias, Nasa
-1970387		1971596		Prouvez-le-moi.
-1973682		1974849		D'abord,
-1976351		1978436		les panneaux solaires ont été nettoyés.
-1978853		1980230		Par le vent, peut-être.
-1980522		1981481		Reculez.
-1981856		1982982		Le Rover 2.
-1983024		1987112		Le commandant Lewis l'a sorti à Sol 17 et l'a branché à l'Habitat.
-1987862		1989072		Il a été déplacé.
-1989114		1990865		Elle aura oublié de le consigner.
-1991366		1992617		C'est peu probable.
-1992659		1996121		Demandons à Lewis par Capcom.
-1996871		1999582		Si Watney est vivant, Arès 3 ne doit rien savoir.
-2000333		2001876		Vous n'allez pas leur dire ?
-2001918		2004045		Il leur reste 10 mois de voyage.
-2004087		2006965		C'est dangereux. Évitons de les perturber.
-2007007		2008258		Ils le croient mort.
-2008299		2011219		Ils seraient atterrés de l'avoir abandonné en vie.
-2011678		2013972		Vous n'avez pas bien réfléchi.
-2014014		2016349		Qu'est-ce qu'on va dire ?
-2016391		2020520		"Chère Amérique, l'astronaute qu'on a tué et enterré,
-2020562		2023356		"il est vivant, on l'a laissé sur Mars, désolés.
-2023398		2024649		Signé : la Nasa."
-2025025		2027777		Vous imaginez dans quelle merde on va être ?
-2027819		2028945		On dit quoi au public ?
-2030405		2033074		On a 24 h pour diffuser ces images.
-2033116		2036077		Joignons un communiqué, que les gens soient avertis.
-2037245		2038246		Oui, monsieur.
-2038621		2041875		Mais il aura crevé de faim avant qu'on puisse l'aider.
-2044919		2047339		Vous imaginez ce qu'il vit, là-haut ?
-2047630		2050842		Il est à 80 millions de km de chez lui, il se croit seul,
-2050884		2052385		abandonné.
-2053094		2055930		Qu'est-ce que ça peut donner, psychologiquement ?
-2057432		2059351		À quoi il peut bien penser ?
-2063396		2065732		C'est sûr, je vais crever ici
-2066399		2070362		si je dois me taper un titre de plus de cette bouillie disco.
-2070862		2075116		Commandant Lewis, vous auriez pu prendre des trucs de ce siècle !
-2077202		2080914		Non, je vais pas "turn the beat around". Je refuse.
-2081581		2082999		Vous ignoriez qu'il était vivant ?
-2085335		2088421		Avez-vous essayé de contacter Mark Watney ?
-2088463		2089881		Nous nous y efforçons.
-2090465		2091883		A-t-il assez de vivres ?
-2092133		2093718		Nous allons vérifier.
-2093968		2096429		Et la Nasa ? Vous allez démissionner ?
-2096805		2097597		Non.
-2103603		2105939		Il est temps de réfléchir à long terme.
-2106523		2108733		La prochaine mission, Arès 4,
-2108775		2111403		doit se poser au cratère de Schiaparelli,
-2111820		2113988		à 3 200 kilomètres d'ici.
-2114030		2117617		3 200 kilomètres.
-2118451		2122330		Dans 4 ans, quand ils arriveront, faudra que j'y sois.
-2123373		2125709		Donc, je dois me rendre au cratère.
-2127711		2129587		Alors, je vous explique le hic.
-2129629		2131423		Un seul rover fonctionne
-2131464		2135010		et il est conçu pour parcourir 35 km maximum.
-2135051		2138013		Ensuite, il faut le recharger à l'Habitat.
-2138763		2139848		Problème nº 1.
-2140724		2141975		Problème nº 2 :
-2142517		2144561		il va me falloir
-2144602		2147605		à peu près 50 jours pour arriver là-bas.
-2147647		2149983		Je vais devoir passer 50 jours
-2150025		2153528		dans un rover affublé d'un énorme système de survie.
-2154738		2155405		Donc,
-2156406		2160076		devant ces probabilités catastrophiques, j'ai plus le choix.
-2160827		2163788		Va falloir que j'en chie, de la science.
-2191900		2193276		J'y suis arrivé.
-2198198		2202410		J'ai doublé la durée de ma batterie en piquant celle du Rover 1.
-2203495		2206206		Mais si je mets le chauffage,
-2207665		2210877		je vais épuiser la moitié de mon énergie
-2210919		2212045		chaque jour.
-2213713		2216091		Et si j'utilise pas le chauffage,
-2216466		2217550		je finirai
-2218635		2221763		par mourir à cause des lois de la thermodynamique.
-2222138		2225558		Je serais ravi de régler le problème là tout de suite,
-2226059		2227143		mais hélas,
-2227519		2229604		j'ai les couilles congelées.
-2231690		2233358		Basta, j'arrête.
-2246079		2249332		Bonne nouvelle : j'ai une piste, pour le chauffage.
-2249833		2250917		Mauvaise nouvelle :
-2250959		2254921		il faut déterrer le générateur thermoélectrique à radio-isotope.
-2254963		2259050		Il me semble qu'en formation, l'un des cours était intitulé :
-2259092		2262429		"Ne déterrez pas la grosse boîte de plutonium, Mark."
-2262470		2266599		Si le GTR, utile dans un vaisseau, se fissure en présence d'humains,
-2266641		2267851		terminé, les humains.
-2267892		2269519		Donc, on l'a enterré
-2270311		2275275		et on a planté un drapeau pour éviter de s'en approcher bêtement.
-2276067		2278111		Mais bon, tant que je l'abîme pas...
-2278695		2281573		J'ai failli dire : "Tout ira bien" à voix haute.
-2281823		2283950		L'essentiel, c'est que j'ai plus froid.
-2283992		2286161		Bien sûr, je pourrais me dire
-2286202		2290915		que j'ai chaud grâce à un isotope radioactif en fin de carrière,
-2291166		2293418		mais j'ai d'autres chats à fouetter.
-2293710		2298381		J'ai exploré de long en large la clé USB du commandant Lewis.
-2298423		2302761		C'est officiel, voici le titre le moins disco de sa collection.
-2337962		2339339		Où va Watney ?
-2339381		2341675		Il se prépare pour un long trajet.
-2341716		2343843		Il fait des essais progressifs,
-2343885		2346805		en emmenant le Rover 2 de plus en plus loin.
-2349182		2351685		Pourquoi quitterait-il la sécurité de l'Habitat ?
-2352227		2356398		Pour rejoindre le site de lancement d'Arès 4 afin de nous contacter.
-2356439		2358358		Mais ce serait très risqué.
-2358400		2361194		Nous aimerions lui dire de rester où il est
-2361236		2363863		et de croire que nous faisons tout
-2363905		2365699		pour le ramener au pays en vie.
-2366074		2367158		Je vous remercie.
-2370161		2372122		Ne dites pas "le ramener en vie".
-2372414		2374666		Ces interviews sont difficiles.
-2374708		2378378		Pardon si j'essaie d'avoir un discours proactif et positif.
-2378420		2379212		Annie !
-2379254		2381381		Fini les télés pour Vincent. C'est noté.
-2381965		2384759		76 km, c'est bien ce qui est écrit ?
-2385427		2386803		Vous me le demandez ?
-2387053		2389014		- Absolument. - Oui, monsieur.
-2389305		2392350		Mark a roulé 2 heures depuis l'Habitat.
-2392392		2394352		Après une AEV, encore 2 heures.
-2394394		2397230		Sans doute un arrêt pour changer de batteries.
-2397272		2399733		Il n'avait pas chargé son support-vie ?
-2400233		2402986		Toutes les 41 h, il y a 17 min de coupure
-2403028		2405238		en raison des orbites, donc...
-2405280		2408074		on a pu louper quelque chose.
-2408116		2409951		Réduisez les coupures à 4 min.
-2409993		2414164		Je vous donne carte blanche pour modifier les trajectoires orbitales.
-2414205		2415040		Débrouillez-vous.
-2418209		2422088		Si Mlle Park n'a rien loupé, Mark ne va pas vers Arès 4.
-2422130		2422881		Pas encore.
-2423214		2426634		Mais il sait que ce serait sa seule chance.
-2426676		2429012		Bruce, quel délai pour un envoi de vivres ?
-2429679		2432640		Au vu des positions de la Terre et de Mars, il faut compter 9 mois.
-2432682		2434851		BRUCE NG Directeur du jet propulsion laboratory
-2434893		2437187		6 mois pour fabriquer le cargo.
-2437228		2438146		3 mois.
-2439064		2440023		3 ? C'est...
-2440065		2445278		Vous allez dire : "C'est impossible", je ferai l'éloge de vos équipes,
-2445320		2447614		vous referez vos calculs et direz :
-2447655		2449657		"En heures sup', ce sera l'enfer."
-2449699		2451910		En heures sup', ce sera l'enfer.
-2451951		2452994		Au travail.
-2453036		2454287		Je vous trouverai l'argent.
-2455622		2456664		Il faut le dire à l'équipage.
-2456706		2457457		MITCH HENDERSON Responsable du vol Hermès, Nasa
-2457499		2459876		- On l'a évoqué. - "Vous" l'avez évoqué.
-2460377		2463338		Moi seul décide du bien-être de l'équipage.
-2464756		2466007		Ils méritent de savoir.
-2467801		2470929		Pas avant d'avoir un plan de sauvetage viable.
-2471513		2474057		Bruce a 3 mois pour envoyer les vivres.
-2474099		2475809		C'est la priorité absolue.
-2475850		2476935		Nous ferons au mieux.
-2477769		2480021		Mark mourra, si vous échouez.
-2481690		2483316		Ça fait 48 Sols
-2483358		2485485		que j'ai planté les pommes de terre.
-2485527		2487654		C'est le moment de récolter et replanter.
-2487696		2489906		Elles sont plus grosses que prévu.
-2490407		2493535		Je possède maintenant 400 pieds de patates saines.
-2493576		2496621		Je les déterre en veillant à ne pas les abîmer.
-2496663		2500875		Je replanterai les petites et consommerai les plus grosses.
-2500917		2504629		Des pommes de terre 100 % bio d'origine martienne.
-2504671		2506715		On voit pas ça tous les jours !
-2507632		2509509		Mais ça servira à rien
-2509551		2512387		si j'arrive pas à contacter la Nasa.
-2534034		2535493		Je sais ce que je vais faire.
-2564272		2565607		Il repart.
-2565648		2567609		Mais il va où comme ça ?
-2568193		2570570		C'est le même cap depuis 13 jours.
-2570612		2572405		Il est loin d'Arès 4.
-2572989		2576451		À moins qu'il fasse des détours pour essayer
-2576493		2578828		de contourner un obstacle.
-2579079		2580205		Quel obstacle ?
-2580830		2584292		À Acidalia Planitia, il n'y a rien sauf...
-2586628		2587629		Quoi ?
-2591299		2592634		J'ai besoin d'une carte.
-2601226		2603436		- Vous vous croyez où ? - Tout va bien.
-2603478		2604729		Je vous l'emprunte.
-2605146		2607023		Où se trouve l'Habitat ?
-2607565		2610151		31,2º nord, 28,5º ouest.
-2611152		2612153		Et Watney ?
-2613238		2614155		Ici.
-2623665		2625041		Je sais où il va.
-2625083		2626459		Je saute dans un avion.
-2656823		2659159		JET PROPULSION LABORATORY PASADENA, CALIFORNIE
-2659200		2660869		Vincent ! Comment va ?
-2660910		2661995		Bonjour.
-2662037		2663079		Bon vol ?
-2665123		2667625		Il est entreposé à deux minutes d'ici.
-2702118		2704120		Content de vous revoir, Vincent.
-2704579		2706915		Mark peut le réactiver ?
-2706956		2710543		Difficile à dire. On a perdu le contact en 1997.
-2710794		2713046		Panne de batterie, je crois.
-2713088		2717008		Néanmoins, elle a tenu 3 fois plus longtemps que prévu.
-2717050		2720220		On vous reproche rien. Je veux voir l'équipe de 97.
-2720261		2722389		Ils sont déjà là. Les gars...
-2722430		2725767		Vincent Kapoor, directeur des missions martiennes.
-2725809		2727435		Notre équipe actuelle.
-2728436		2729813		Et celle de 97.
-2745787		2747622		- C'est la réplique ? - Oui.
-2747872		2749040		Voyons ça.
-2750208		2751459		Pathfinder.
-2757132		2758466		Pathfinder.
-2852185		2853228		Nom de Dieu !
-2854896		2857315		En attente de signal télémétrie.
-2860402		2861653		Signal acquis.
-2864406		2865156		Caméra.
-2915123		2916374		Réception.
-2919961		2921296		"Me recevez-vous ?"
-2922547		2923256		"Oui."
-2923798		2924424		"Non."
-2927218		2928928		Pointez-la sur "oui".
-2928970		2931348		32 minutes aller-retour.
-2931389		2934976		On doit répondre par oui ou par non avec une caméra.
-2935018		2937604		C'est pas les réparties qui vont fuser !
-2937645		2938521		C'est une blague ?
-2938563		2939522		Tim...
-2939564		2941024		Pointez la caméra.
-2941900		2943818		Je pointe la caméra.
-2958833		2959668		Oui !
-2961461		2962420		Oui !
-2963838		2965173		Voilà le hic.
-2966132		2971096		On doit tenir des conversations complexes sur l'ingénierie astrophysique
-2971513		2974599		à l'aide d'une caméra à capture d'images
-2975475		2977102		datant de 1996.
-2980480		2981523		Par chance,
-2983483		2985276		c'est une caméra rotative.
-2986027		2987821		Je dois créer un alphabet.
-2988405		2990240		Ça peut pas être le nôtre.
-2990281		2995078		26 caractères plus une carte-question, sur 360º, ça les sépare de 13º.
-2995120		2999249		C'est trop serré. Je saurai pas quelle carte la caméra désigne.
-3011761		3012846		L'hexadécimal.
-3017350		3019060		L'hexadécimal à la rescousse.
-3019644		3023398		Je me suis dit que l'un d'entre vous avait un tableau ASCII.
-3023440		3024733		J'avais raison.
-3025191		3028403		On applaudit notre super-geek, Beth Johanssen.
-3029946		3032198		Qui a aussi le jeu Zork II
-3032240		3034993		et Les Déesses de cuir de Phobos sur son PC.
-3036411		3037829		Franchement, Johanssen,
-3037871		3040373		tu mérites le prix Nobel de la solitude.
-3040999		3042584		Mais j'ai rien à t'envier,
-3042876		3044919		pour ce qui est de la solitude.
-3065190		3067275		Je sais où il va avec ça.
-3108358		3109025		F...
-3109359		3110276		O...
-3115365		3116616		F... O...
-3117867		3119494		7... W...
-3128962		3132590		COMMENT SURVÉCU ?
-3139431		3140432		Réveillez-vous.
-3145437		3148189		Empalé par antenne Bio-moniteur détruit
-3148231		3151276		Équipage raison me croire mort Pas leur faute
-3152277		3155196		Depuis qu'on communique mieux,
-3155238		3158408		les cerveaux de la Nasa m'ont appris à pirater
-3158450		3161453		le Rover pour qu'il parle à Pathfinder.
-3161494		3163288		Si j'entre un bout de code,
-3163329		3166416		disons 20 instructions, dans l'OS du Rover,
-3166916		3169878		la Nasa reliera le Rover à la fréquence de Pathfinder
-3170712		3172213		et le tour sera joué.
-3186478		3187228		"Mark,
-3187937		3189481		c'est Vincent Kapoor.
-3190357		3193443		Nous vous observons depuis Sol 54.
-3194736		3196905		Le monde entier vous soutient.
-3197947		3199616		Excellente idée
-3199657		3201326		de récupérer Pathfinder.
-3201659		3203495		On cherche des plans de sauvetage.
-3204079		3207207		En attendant, on prépare un envoi de vivres
-3207248		3208583		pour vous nourrir
-3209125		3211753		jusqu'à l'arrivée d'Arès 4."
-3232857		3234484		Heureux de l'apprendre.
-3241700		3244119		"J'ai hâte de ne pas mourir."
-3256589		3257966		"Qu'a dit l'équipage
-3258008		3260552		en apprenant que j'avais survécu ?"
-3276901		3279404		Vous me recevez ?
-3281781		3283908		Un peu d'espace, s'il vous plaît.
-3284617		3285452		Moi aussi ?
-3285493		3286369		Vous aussi.
-3286911		3287996		Pour une seconde.
-3294627		3295837		Dites-lui.
-3304721		3307182		"Nous n'avons pas dit à l'équipage
-3308141		3309809		que vous étiez en vie.
-3309851		3310560		Pas encore.
-3312395		3314522		Pour qu'ils restent concentrés
-3315148		3316441		sur leur mission."
-3341049		3342342		Il dit :
-3342384		3343843		"Ils sont pas au courant ?
-3343885		3348515		Mais p... de b... de m..., vous êtes malades ?"
-3351101		3351726		"Mark,
-3352227		3354938		surveillez votre langage.
-3354979		3358608		Tout ce que vous tapez est diffusé en direct
-3358650		3360860		aux quatre coins du monde."
-3363780		3364656		Ah ouais ?
-3377085		3379838		Oui, monsieur. Il est extrêmement stressé.
-3381423		3382632		Nous y veillerons.
-3383341		3385093		Il ne le pensait pas.
-3385343		3386803		Merci, M. le Président.
-3388847		3390056		Mark a raison.
-3390098		3393768		Plus on attend, pire ce sera. Il faut le dire aux autres.
-3394269		3398231		Vincent est à Pasadena et ne peut pas vous contrecarrer.
-3398273		3399941		J'ai pas à répondre à Vincent.
-3400275		3401526		Ni à personne.
-3403903		3405363		Il est temps, Teddy.
-3408616		3412954		L'HERMÈS 4 mois après le départ de Mars
-3429471		3430764		Commandant Lewis ?
-3431139		3432140		Allez-y.
-3433141		3434976		Le transfert de données est terminé.
-3435935		3437479		Bien reçu. J'arrive.
-3450617		3451993		Vous êtes bien pressé.
-3453536		3455497		Mon fils a eu 3 ans hier.
-3455538		3457499		Il doit y avoir des photos.
-3468176		3470053		J'ai des messages personnels.
-3470095		3472138		Je les transfère sur vos PC.
-3473348		3476726		Je lirai pas les mails fétichistes de Vogel en allemand.
-3476768		3478603		Des mises à jour télémétriques.
-3478645		3479854		Chacun son kif.
-3481022		3482607		J'ai un message vidéo
-3482649		3484359		adressé à tout l'équipage.
-3485193		3486861		Ouvrez-le. Venez tous.
-3487654		3489447		Ça me branche, ta télémétrie.
-3493410		3494577		Bonjour.
-3494619		3496037		Je suis Mitch Henderson.
-3496830		3498581		J'ai une nouvelle.
-3498623		3501209		Je dois vous l'annoncer sans détour.
-3502043		3503962		Mark Watney est toujours en vie.
-3506047		3507424		J'imagine votre surprise
-3507924		3509801		et vos nombreuses questions.
-3510218		3512220		Mais en deux mots,
-3512679		3513722		il est vivant
-3513763		3515432		et se porte bien.
-3516891		3520854		Nous le savons depuis 2 mois mais vous l'avons caché.
-3520895		3522313		Deux mois !
-3522355		3524399		J'étais contre cette décision.
-3525066		3527819		On vous l'annonce maintenant parce que...
-3527861		3530363		on a enfin établi une communication avec lui
-3530822		3533408		et on a un plan de sauvetage.
-3533867		3537662		Vous aurez un rapport détaillé de la situation.
-3537704		3541875		Mais ce n'est pas votre faute. Mark insiste beaucoup sur ce point.
-3547464		3549424		Prenez le temps d'encaisser le choc.
-3550050		3551092		Et...
-3551468		3554179		nous répondrons à toutes vos questions.
-3555638		3557265		Henderson, terminé.
-3557724		3559309		Il est vivant.
-3560477		3561978		Je l'ai abandonné.
-3562771		3564564		On est partis ensemble.
-3564606		3566524		Vous exécutiez mes ordres.
-3570028		3571613		Moi, je l'ai abandonné.
-3581289		3583833		Depuis que la Nasa me parle, elle me soûle.
-3584542		3586252		Ils veulent des nouvelles
-3586294		3587671		en permanence.
-3588463		3591424		Et plein de gens veulent gérer ma plantation.
-3591466		3592884		Qui déchire.
-3593718		3595679		Sans prétention,
-3595720		3599766		je suis le meilleur botaniste sur cette planète.
-3602060		3605271		Un point positif de cette communication avec la Nasa,
-3605313		3606815		je reçois des mails,
-3606856		3609442		des tonnes de mails, comme dans l'Hermès.
-3609484		3610735		Dont un du Président.
-3611486		3614906		Mais le plus cool vient de l'université de Chicago,
-3614948		3616741		où j'ai fait mes études.
-3617117		3619786		Selon eux, quand on exploite un sol,
-3619828		3621705		on l'a officiellement colonisé.
-3622539		3624666		Alors, en théorie,
-3625875		3627085		j'ai colonisé Mars.
-3632257		3634009		Dans ta face, Neil Armstrong.
-3634926		3636761		Nouvelle requête de la Terre :
-3636803		3640682		je dois leur envoyer un selfie à ma prochaine transmission.
-3641725		3645478		J'hésite entre la pose "lycéen de terminale"
-3646062		3648398		ou "ingénue aguicheuse".
-3649357		3650358		Mais...
-3651151		3653695		ça donnera quoi, en tenue d'astronaute ?
-3683725		3685352		Qu'est-ce qu'il fabrique ?
-3685393		3687687		Je veux une photo et je reçois Fonzie ?
-3687729		3689522		Il aurait pu ne rien envoyer.
-3689564		3692859		Elle me sert à rien, on doit voir son visage.
-3692901		3694569		Il pourrait enlever son casque,
-3694611		3696321		mais alors, il... mourrait.
-3697864		3700367		On la diffusera après l'annonce du sauvetage.
-3700408		3703536		Annonçons qu'on lui enverra des vivres l'an prochain
-3703578		3705163		durant la fenêtre de Hohmann.
-3705747		3708083		Bruce, toujours dans les temps ?
-3708124		3710085		C'est serré, mais on y arrivera.
-3710126		3714214		9 mois de voyage, le cargo arrivera sur Mars à Sol 868.
-3714255		3716174		Et les analyses des botanistes ?
-3716216		3719719		Les récoltes de Mark devraient tenir jusqu'à Sol 912.
-3719761		3722764		Ils admettent à contrecœur qu'il assure.
-3722806		3723973		À contrecœur ?
-3724557		3727644		Mark les envoie déféquer dès qu'ils le critiquent.
-3728061		3729187		Recadrez-le.
-3729229		3731314		On ne peut tolérer de tensions.
-3731356		3734442		Je n'aime pas cette marge. 912 Sols de nourriture.
-3734484		3736486		On arrive à Sol 868.
-3737278		3739447		Si tout se passe bien.
-3784993		3787120		Brèche combinaison détectée.
-3795295		3797505		Niveau d'oxygène critique.
-3811394		3813229		Oxygène : 10 %.
-3828745		3831164		Oxygène : 5 %.
-3840715		3842550		Pression combinaison stable.
-3958667		3960168		Pression stable.
-3994202		3996871		Merde ! Merde !
-4016057		4017475		La récolte est morte.
-4018059		4020437		La dépressurisation a fait évaporer l'eau.
-4020478		4023440		Les bactéries ont succombé au froid extrême
-4023481		4025692		de l'atmosphère martienne.
-4025734		4027235		Il tiendra longtemps ?
-4028737		4032115		Comme il ne peut plus cultiver de pommes de terre,
-4032824		4035243		ça lui donne... 200 Sols.
-4035660		4038747		En se rationnant, il ira jusqu'à Sol 409 ?
-4039330		4041624		Avec les pommes de terre, Sol 609.
-4041666		4044461		À Sol 868, il sera mort depuis longtemps.
-4044502		4047839		Il faut lancer au plus vite, ce qui change notre agenda.
-4049341		4050759		On est dessus.
-4051885		4055764		Première estimation : le voyage durera 414 jours.
-4056639		4058808		On est à Sol 135.
-4058850		4062062		Il faut 13 jours pour monter les boosters et inspecter,
-4062103		4064773		ce qui donne à l'équipe de Bruce...
-4065607		4067859		47 jours pour fabriquer le cargo.
-4069194		4070737		Je vous laisse appeler Bruce
-4070987		4072364		pour lui annoncer.
-4080163		4082624		J'ai besoin de me changer.
-4091174		4092384		"Cher Mark,
-4093468		4094803		apparemment,
-4095762		4098098		la Nasa nous autorise à te parler
-4099557		4102727		et c'est moi qui ai tiré la courte paille.
-4106606		4107774		Désolé
-4108692		4110318		de t'avoir abandonné sur Mars,
-4110735		4112987		mais en fait, on peut pas te saquer.
-4115365		4116574		Qui plus est,
-4116950		4118618		c'est bien plus spacieux
-4118993		4120495		dans l'Hermès sans toi.
-4121329		4122956		On doit se relayer
-4122997		4124457		pour exécuter tes tâches,
-4125417		4126710		mais finalement,
-4127252		4129004		c'est que de la botanique,
-4130171		4132048		pas de la vraie science.
-4134592		4136136		Comment va Mars ?"
-4140348		4142183		"Cher Martinez,
-4142767		4144019		Mars va bien.
-4145020		4147188		J'ai fait sauter l'Habitat.
-4147814		4149190		Mais malheureusement,
-4149816		4152819		toute la musique disco du commandant Lewis
-4152861		4154279		a survécu."
-4155030		4157907		"... toute la musique disco du commandant Lewis
-4157949		4159367		a survécu."
-4160618		4165165		"Chaque jour, je sors regarder les vastes horizons."
-4165206		4168960		"Chaque jour, je sors regarder les vastes horizons."
-4169002		4170462		"Puisque je suis là."
-4171171		4172964		"Puisque je suis là.
-4173840		4176509		Dis aux autres que je les salue bien."
-4179387		4180972		"Ce sera fait, mon pote."
-4270770		4272272		Pression stable.
-4312520		4314230		5, 10...
-4319402		4320528		40...
-4321363		4322364		52.
-4339547		4343510		JET PROPULSION LABORATORY PASADENA, CALIFORNIE
-4351393		4352394		Rich ?
-4355146		4356231		Réveille-toi.
-4357065		4358817		RICH PURNELL Astrodynamique
-4359275		4361736		- Ils demandent les trajectoires. - Il est quelle heure ?
-4363571		4364989		3 h 42.
-4370036		4372455		Je sais, on prend les choses à l'envers
-4372497		4375625		mais on peut pas lancer avec autant d'inconnues.
-4376918		4378086		Pas de souci.
-4378753		4381548		Les 25 trajectoires mettent 414 jours.
-4381589		4385051		Légères variations de poussée et besoins en fuel identiques.
-4386469		4388513		C'est pas le moment de lancer...
-4389764		4391683		La Terre et Mars sont mal positionnés.
-4391725		4394102		Ce serait presque plus facile de...
-4396438		4397439		De quoi ?
-4398773		4400066		J'ai besoin de café.
-4402444		4404237		- Ça va ? - Nickel.
-4409200		4410410		Plus facile de quoi ?
-4422088		4423965		T'es au courant que c'est moi ton chef ?
-4430013		4433475		Posons la question qui coûte très très cher.
-4434225		4435894		Le cargo sera-t-il prêt ?
-4435935		4437771		- On est en retard. - Un chiffre.
-4437812		4441316		15 jours de plus pour finir dans les temps.
-4441358		4444277		On va les créer. 13 jours pour monter le cargo.
-4444319		4445737		On peut réduire ?
-4445779		4448198		Il ne faut que 3 jours pour le monter.
-4448239		4449991		Qu'on peut ramener à 2, non ?
-4450033		4451618		C'est faisable.
-4451659		4453495		10 jours de tests et d'inspections.
-4453536		4456247		Qui révèlent souvent des problèmes ?
-4457332		4458875		Quoi, pas d'inspections ?
-4458917		4461294		Je dis : révèlent-elles des problèmes ?
-4461336		4462545		Une fois sur vingt.
-4462587		4465465		- Mais ça justifie un arrêt du décompte. - Trop risqué.
-4465507		4467801		Qui a un moyen plus sûr de gagner du temps ?
-4472347		4474808		Gagnez 4 jours en le rationnant.
-4474849		4476601		C'est dur mais on a nos 15 jours.
-4476935		4478937		On annule les inspections.
-4478978		4480772		- Si les médias... - J'assume.
-4481147		4483817		Vous avez vos deux semaines. Au travail !
-4484984		4489072		Donc, je dois tenir jusqu'à l'arrivée du cargo de vivres.
-4489114		4491700		Vous voulez voir mon menu "calories minimum" ?
-4491741		4495704		Rationnement réglementaire, mais au lieu de trois portions
-4495745		4497163		une fois par jour,
-4497497		4498665		ce sera
-4498707		4501292		une portion tous les trois jours.
-4502877		4504838		Et voilà qu'ils me demandent
-4505714		4506715		de faire ça.
-4511636		4512721		Une chose est sûre :
-4514305		4517392		réduire mes rations pour tenir 4 jours de plus,
-4518393		4520061		ça me fait mal au cul.
-4524107		4526860		Je vais tremper cette patate dans de la Vicodine.
-4528903		4530572		Personne m'en empêchera.
-4540999		4544044		Ça fait 7 jours que j'ai plus de ketchup.
-4547589		4549049		Encore sur la brèche, messieurs.
-4549090		4550592		JET PROPULSION LABORATORY CARGO IRIS
-4551092		4552677		4 semaines plus tard
-4556014		4557265		Plus haut.
-4563229		4566107		CAP CANAVERAL Lancement du cargo Iris
-4567442		4570362		Ici directeur de vol. Procédez aux vérifications.
-4570403		4571571		Bien reçu, DDO.
-4571613		4573239		Vérifications.
-4573281		4575283		Vous croyez en Dieu, Vincent ?
-4576618		4577619		Oui.
-4578578		4582791		Mon père était hindou, ma mère est baptiste, donc...
-4582832		4584626		je crois en plusieurs dieux.
-4587170		4588922		Leur aide sera la bienvenue.
-4588963		4590632		Vérifications terminées.
-4591174		4592592		À tous de DDO.
-4592634		4594094		Parés au lancement.
-4594135		4595261		Attention, pour le décompte.
-4595303		4596971		10, 9...
-4599808		4601309		Allumage moteur principal.
-4603645		4604521		Mise à feu.
-4606606		4607816		Décollage.
-4610402		4611528		Bonne propulsion.
-4615824		4617450		Paramètres nominaux.
-4630880		4632674		Les données sont bonnes.
-4634551		4635927		Tout va bien, DDO.
-4635969		4637220		Propulsion nominale.
-4645729		4648857		Légère augmentation du vecteur de propulsion.
-4648898		4650150		On a du flottement.
-4651526		4652527		Pardon ?
-4653194		4655238		Nous avons une très grosse précession.
-4655488		4656448		Ça va aller ?
-4657866		4659409		Niveau d'alerte atteint.
-4659451		4661995		En rotation, précession 17º.
-4663496		4665123		Lancement, que se passe-t-il ?
-4665165		4666708		Iris encaisse 7 G.
-4667292		4668752		On a perdu le signal.
-4677302		4678470		Récupération des données ?
-4678928		4680263		On l'a perdu.
-4684142		4685352		SatCon ?
-4685393		4687896		Aucune acquisition de signal satellite.
-4688563		4689689		Confirmez.
-4690398		4691524		Signal perdu.
-4691941		4692984		Ici aussi.
-4693026		4694903		Le destroyer Stockton
-4694944		4696780		signale une chute de débris.
-4696821		4698198		Centre de contrôle,
-4698239		4699699		tout le monde reste en poste.
-4699741		4701743		Contrôle au sol, verrouillez la salle.
-4705705		4707749		Comment s'est passé le lancement ?
-4730438		4731815		"Commandant Lewis,
-4732607		4734943		vous allez pouvoir faire quelque chose
-4734984		4736111		pour moi.
-4737570		4738822		Si je meurs,
-4739739		4742617		il faudrait que vous alliez voir mes parents.
-4743743		4747038		Ils voudront savoir tout ce qu'on a vécu, sur Mars.
-4748623		4750250		Je sais, c'est pas cool.
-4750792		4753878		Ce sera pas facile de parler à un couple
-4754963		4756840		de leur fils mort.
-4758341		4760260		C'est beaucoup vous demander.
-4762595		4764472		Donc, c'est à vous que je le demande.
-4765849		4767767		Je ne baisse pas les bras.
-4767809		4771980		Mais il faut bien se préparer à toutes les éventualités.
-4774566		4776276		S'il vous plaît, dites-leur
-4779112		4780697		que j'adore mon métier
-4784701		4786077		et que je suis un as.
-4788830		4791082		Et que je meurs
-4793126		4795378		pour un projet immense
-4797088		4798506		et magnifique.
-4803136		4804721		Plus grand que moi.
-4807015		4809601		Dites-leur que j'accepte mon sort.
-4810852		4812270		Et dites-leur
-4813480		4815065		merci d'être
-4815523		4817317		mon père et ma mère.
-4818443		4820653		CNSA - ADMINISTRATION SPATIALE NATIONALE CHINOISE PÉKIN
-4820695		4821988		On a mis des cubes protéinés
-4822030		4822989		au lieu des sachets.
-4823031		4826868		La poussée du lancement et les vibrations latérales
-4826910		4829496		ont liquéfié les cubes et provoqué
-4830330		4831664		un déséquilibrage.
-4831706		4834834		Ce point n'avait pas été vérifié ?
-4834876		4836628		La fenêtre de lancement
-4836670		4838380		nous a obligés à accélérer.
-4840382		4842509		Leur astronaute va mourir.
-4842550		4844302		GUO MING Directeur de la CNSA
-4844344		4846388		Il y a d'autres solutions.
-4846429		4848473		ZHU TAO Directrice adjointe
-4848515		4851226		Notre lanceur Taiyang Shen peut réussir
-4851476		4854229		une injection en orbite martienne.
-4855397		4856731		Et la Nasa ne demande rien ?
-4857190		4858274		Ils ne le savent pas.
-4858817		4861194		Notre technologie est classifiée.
-4863863		4866741		Donc, si on ne fait rien...
-4867367		4871413		Personne ne saura jamais que nous aurions pu apporter notre aide.
-4872539		4877335		Imaginons que nous décidions de les aider.
-4878003		4881881		Nous sacrifierions un lanceur et annulerions la mission.
-4883008		4888054		Cela ne sortira pas des milieux scientifiques. Une coopération spatiale.
-4890974		4891808		Oui.
-4893518		4894936		Oui, je comprends.
-4898440		4899357		Merci.
-4906698		4910493		Grâce à mon tonton en Chine, on a une nouvelle chance.
-4910535		4913580		On avait fabriqué le cargo Iris en 62 jours.
-4913621		4917000		Celui-ci, on va devoir le faire en 28.
-4918960		4922964		PLÉIADES Supercalculateur de la Nasa
-4942734		4945612		Pas besoin de système d'atterrissage, pour des vivres.
-4945653		4947197		On peut le crasher sur Mars.
-4948865		4949949		Raccrochez.
-4950450		4951534		Vous êtes qui ?
-4951576		4954746		Rich Purnell, astrodynamique. Raccrochez.
-4957082		4957957		C'est bon.
-4958958		4960168		Je vous rappelle.
-4961586		4963421		Je sais comment sauver Watney.
-4964339		4968218		Le cargo, ça marchera pas. Trop aléatoire. J'ai mieux.
-4968259		4969803		Astrodynamique ?
-4971096		4973348		C'est quoi, le "projet Elrond" ?
-4973723		4975141		C'est ce qui m'est venu.
-4975183		4976518		Mais "Elrond" ?
-4977227		4979312		C'est une réunion secrète.
-4979354		4982065		Quel rapport entre Elrond et une réunion secrète ?
-4982107		4984651		Le Conseil d'Elrond, du Seigneur des Anneaux.
-4985026		4986152		C'est la réunion
-4986194		4988071		où ils décident de détruire l'Anneau.
-4988113		4990031		Si on l'appelle "projet Elrond",
-4990073		4992534		mon nom de code sera Glorfindel.
-4992867		4994536		Je vous déteste tous.
-4994577		4996663		Teddy n'est pas au courant ?
-4997122		4998331		Qui êtes-vous ?
-4998373		5000000		Rich Purnell. Astrodynamique.
-5001292		5002544		Répétez-leur.
-5003044		5005880		Je peux renvoyer l'Hermès sur Mars d'ici Sol 561.
-5007757		5008550		Comment ?
-5013138		5015932		Vous pourriez vous mettre là, s'il vous plaît ?
-5017392		5018351		Merci.
-5018393		5019686		Ici, voilà.
-5019728		5020854		Et vous...
-5021229		5023606		mettez-vous là, voilà.
-5029237		5031239		Imaginons que cette agrafeuse,
-5031531		5033158		c'est l'Hermès.
-5033199		5034534		Vous, vous êtes...
-5034826		5035952		C'est quoi, votre nom ?
-5036411		5037370		Teddy.
-5037620		5039581		Je suis le directeur de la Nasa.
-5040165		5042292		Cool. Teddy, vous êtes la Terre.
-5042334		5044586		L'Hermès se dirige vers vous.
-5044627		5047213		Il a un mois pour décélérer.
-5047255		5050175		Au lieu de ça, ce que je propose, c'est...
-5054012		5058058		On remet les gaz dans la foulée pour gagner de la vélocité.
-5058099		5060727		On s'approche suffisamment de la Terre
-5060769		5063104		pour profiter de la force gravitationnelle.
-5063146		5064647		Et à ce moment-là...
-5067233		5068818		on ravitaille avec le lanceur...
-5068860		5070195		Le Taiyang Shen.
-5070236		5074449		... on prend les provisions nécessaires et on accélère vers Mars.
-5076743		5077869		Vous êtes Mars.
-5078286		5081414		On va trop vite pour une mise en orbite, mais...
-5081456		5082707		on peut survoler.
-5082749		5085168		À quoi bon, si on récupère pas Watney ?
-5085835		5089381		Watney rejoindrait l'Hermès avec le VAM.
-5093301		5094678		Et hop, on rentre.
-5099766		5102018		J'ai tout calculé. Ça le fait.
-5104104		5105438		- Rich. - Oui, chef.
-5105480		5106648		Sortez.
-5114114		5115448		Il a raison ?
-5116116		5118034		Bruce, qu'en dites-vous ?
-5118660		5119994		Si Vincent le dit...
-5121579		5123790		Nous avons besoin du Taiyang Shen.
-5125208		5127127		Pourquoi est-ce important ?
-5127168		5128461		C'est l'un ou l'autre.
-5128503		5130839		On lui envoie des vivres jusqu'à Arès 4
-5130880		5133091		ou on envoie l'Hermès le récupérer.
-5133508		5136511		Dans les deux cas, avec le Taiyang Shen. Il faut choisir.
-5137178		5139681		Et l'équipage de l'Hermès ? Ça leur ferait
-5139723		5143810		533 jours à ajouter à la durée de leur mission.
-5143852		5146062		Ils n'hésiteraient pas une seconde.
-5146688		5149858		L'Hermès peut-il fonctionner 533 jours de plus ?
-5149899		5151067		C'est sûr.
-5151109		5155155		Il a été conçu pour toute la mission, il n'en est qu'à la moitié de sa vie.
-5155822		5157032		Mais en cas de problème...
-5157073		5158491		On perd l'équipage.
-5158867		5160493		Donc, on a un grand risque
-5160535		5162328		de tuer une personne
-5162662		5165206		ou un risque faible d'en tuer six.
-5165248		5166666		Comment faire un choix ?
-5166708		5169544		C'est pas à nous de le faire. C'est à lui.
-5169919		5170962		N'importe quoi !
-5171463		5173673		C'est au commandant Lewis de décider.
-5173715		5176676		Nous pouvons ramener 5 astronautes à bon port.
-5176718		5178553		Je ne mets pas leur vie en jeu.
-5179721		5181348		Laissez-les en décider.
-5182265		5184726		Mitch, on part sur la première option.
-5186770		5188646		Espèce de dégonflé.
-5207123		5208833		- Johanssen ? - Oui.
-5209709		5212253		T'es en pause, mais je peux t'embêter ?
-5212295		5214297		- Vas-y. - T'es où ?
-5214339		5215465		À la salle.
-5237278		5238405		Qu'est-ce qu'il y a ?
-5238697		5243118		J'ai reçu un mail de ma femme, avec pour objet : "Nos enfants".
-5243159		5244953		La pièce jointe s'ouvre pas.
-5247956		5248832		On va voir ça.
-5255630		5256631		Alors...
-5258800		5260010		C'est pas un JPEG.
-5261344		5263596		C'est un simple fichier ASCII.
-5266474		5267809		C'est pas clair.
-5268435		5269978		Manœuvre Rich Purnell
-5270562		5272397		T'y comprends quelque chose ?
-5273148		5274774		"Manœuvre Rich Purnell".
-5275483		5278361		C'est une trajectoire pour l'Hermès.
-5283783		5286202		On rentrerait en orbite terrestre
-5286244		5287537		211 jours plus tard.
-5288955		5290290		Ça marcherait ?
-5290999		5292709		Les calculs se tiennent.
-5292751		5294252		C'est génial.
-5294627		5297380		Alors, pourquoi tant de mystère ?
-5297422		5299674		Parce que la Nasa est contre.
-5300342		5303553		Si on le fait, ils devront nous ravitailler.
-5303595		5306473		On a la possibilité de leur forcer la main.
-5309392		5310643		On va le faire ?
-5311853		5313563		Moi, je serais déjà en route.
-5313980		5315857		C'est vous qui décidez, non ?
-5316524		5317776		Pas cette fois.
-5317817		5320862		La Nasa a expressément rejeté cette solution.
-5321696		5324991		Ce serait une mutinerie, un mot que je ne prends pas à la légère.
-5325033		5327827		On y va si on est tous d'accord.
-5327869		5330622		Et avant de répondre, pensez aux conséquences.
-5331039		5334042		Si on manque le ravitaillement, on est morts.
-5334084		5336961		Si on manque l'assistance gravitationnelle, on est morts.
-5337003		5339381		Si on fait tout à la perfection,
-5339631		5342592		on ajoute 533 jours à notre mission.
-5343677		5347389		533 jours supplémentaires avant de retrouver nos familles.
-5347847		5350850		533 jours
-5350892		5353728		de voyage spatial non préparé, où tout peut mal tourner.
-5354104		5356064		S'il y a une panne critique,
-5356398		5357273		on est morts.
-5358108		5359192		Je m'inscris.
-5359234		5361027		Doucement, cow-boy.
-5361069		5362779		On était dans l'armée.
-5362821		5364739		On aura droit à la cour martiale.
-5365573		5366866		Quant à vous tous,
-5366908		5369703		ils ne vous renverront jamais là-haut.
-5370036		5370912		Bon.
-5370954		5374624		Alors, si on décide de le faire, ça se passe comment ?
-5374666		5377460		- Je programme la trajectoire. - Et la commande à distance ?
-5377836		5380088		Le Contrôle peut piloter l'Hermès.
-5381589		5383550		Pouvez-vous la désactiver ?
-5383591		5388388		Chacun des 4 ordinateurs de bords est connecté à 3 systèmes de comm.
-5388430		5391224		Sans comm, on perd télémétrie et guidage.
-5391266		5392934		Sans ordinateur,
-5392976		5394728		impossible de piloter.
-5394769		5398106		Il faudrait désactiver la commande à distance de chaque système.
-5398148		5400358		Je devrais modifier le code...
-5400400		5402902		En clair, ça veut dire quoi ?
-5405196		5406614		C'est dans mes cordes.
-5407407		5408199		Super.
-5409951		5411411		Il faut l'unanimité.
-5412412		5413955		Si on se lance,
-5413997		5417083		on aura passé plus de 900 jours dans l'espace.
-5419461		5422964		C'est plus qu'il n'en faut pour une vie entière, alors...
-5423757		5424674		oui.
-5425133		5426468		Je vote oui.
-5429095		5430430		On va le chercher.
-5433350		5434267		Johanssen ?
-5435226		5435977		Oui.
-5440190		5442859		Mise à jour imprévue de l'Hermès.
-5442901		5444110		Lisez-la.
-5444152		5446946		C'est un message : "Houston, Rich Purnell
-5446988		5448907		est une bête de la balistique."
-5449908		5451618		DDO de Guidage.
-5451659		5453536		L'Hermès a quitté sa trajectoire.
-5453578		5456581		Prévenez l'Hermès qu'ils dérivent. Corrigez ça.
-5456623		5459793		Ils ne dérivent pas. Ils ont ajusté leur trajectoire.
-5459834		5460960		C'est pas possible...
-5461586		5464214		Possible défaillance des instruments ?
-5464255		5465965		- Négatif. - Guidage.
-5466007		5468677		Combien de temps avant que ce soit irréversible ?
-5468718		5470178		Je lance les calculs.
-5470804		5471805		Qui est Rich Purnell ?
-5472722		5473932		Aucune idée.
-5474474		5476226		Trouvez-moi qui est ce Purnell.
-5477143		5479562		Ce matin, Annie informera les médias
-5479604		5482857		que la Nasa a dérouté l'Hermès sur Mars.
-5483858		5485527		Ça semble raisonnable,
-5486569		5488530		vu les circonstances.
-5489406		5491825		Celui qui leur a envoyé la manœuvre
-5491866		5494160		n'a fait que transmettre une info.
-5494202		5496079		L'équipage a décidé seul.
-5497706		5499416		Vous les avez peut-être tués.
-5501751		5503503		Nous menons la même guerre.
-5503545		5506840		Au moindre problème, le monde oublie pourquoi nous volons.
-5506881		5510427		J'essaie de nous garder à flot. C'est une cause plus grande qu'une vie.
-5512679		5515056		Non, c'est faux.
-5516558		5520020		Quand tout sera terminé, j'attendrai votre démission.
-5523565		5524607		Je comprends.
-5525108		5527068		Ramenez-nous nos astronautes.
-5530488		5533450		Chaque mission nécessite 3 ans de ravitaillement.
-5533491		5539039		La Nasa a décidé qu'il était plus simple d'envoyer du matériel en avance.
-5539080		5542667		Donc, en conséquence, le MAV pour Arès 4
-5542709		5545545		est déjà au cratère de Schiaparelli.
-5546087		5550008		Le plan, c'est que je m'en serve pour entrer en orbite
-5550050		5553094		à l'instant exact où l'Hermès passe
-5553136		5556056		et j'imagine qu'ils m'attraperont...
-5557599		5558892		dans l'espace.
-5562479		5564606		J'ai 200 Sols pour trouver
-5564647		5567484		comment embarquer tout ce qui me maintient en vie,
-5567525		5570612		l'oxygénateur, le recycleur d'eau, le régulateur atmosphérique,
-5571321		5573239		pour tout emporter avec moi.
-5573281		5574991		Heureusement,
-5575033		5577577		les plus grands esprits de la planète Terre,
-5577619		5580288		l'ensemble de la matière grise disponible,
-5580330		5582290		m'aide à tout mettre sur pied.
-5582332		5584042		Leur meilleure trouvaille :
-5584084		5588380		"Percez des trous sur le toit du Rover et tapez dessus avec un rocher."
-5589964		5591257		On va y arriver.
-5645562		5647105		Au revoir, Mars
-5651359		5653987		533 jours de plus
-5654029		5655989		et tu as dit oui ?
-5656031		5657657		Il l'aurait fait pour moi.
-5664164		5666833		- On me regarde. - "Cheese". Vous connaissez ?
-5668752		5669919		Il a pas fait "cheese".
-5679387		5680555		Salut, chérie.
-5681765		5683391		J'ai un cadeau pour toi.
-5683433		5685143		Trouvé au marché aux puces.
-5685185		5686853		Premier pressage.
-5690148		5691316		Il est nickel.
-5691358		5692692		J'adore.
-5692734		5696029		Avec tout le respect que je dois à la CNSA,
-5696071		5698531		on ne procède plus comme ça
-5698573		5700241		depuis Apollo 9.
-5702035		5702786		Vous avez compris ?
-5851810		5854646		7 mois plus tard
-5893184		5895937		J'ai réfléchi à l'application des lois sur Mars.
-5895979		5899232		Aucun pays n'a le droit de s'approprier
-5899274		5900817		ce qui n'est pas sur Terre.
-5900859		5904112		Et sur un territoire qui n'appartient à aucun pays,
-5904154		5905572		la loi maritime s'applique.
-5905613		5908241		Donc, Mars se trouve dans les eaux internationales.
-5909284		5913663		La Nasa, agence américaine civile, est propriétaire de l'Habitat.
-5913705		5916583		Mais à l'extérieur, je suis dans les eaux internationales.
-5916624		5918001		Là, ça devient cool :
-5918043		5919836		à Schiaparelli,
-5919878		5921880		je piloterai le VAM d'Arès 4.
-5921921		5925050		Personne ne peut m'y autoriser officiellement
-5925091		5927427		avant que je sois à bord d'Arès 4.
-5927469		5931056		Donc, je vais piloter un vaisseau dans les eaux internationales
-5931097		5932349		sans autorisation.
-5932390		5933850		Par définition,
-5934517		5936436		ça fait de moi un pirate.
-5937187		5938396		Mark Watney,
-5939147		5940648		pirate de l'espace.
-5970512		5972013		Pirate de l'espace.
-6032907		6034784		Où que j'aille,
-6034826		6036244		je suis le premier.
-6037537		6039122		Sensation étrange.
-6039748		6043126		Je descends du Rover : je suis le premier à être là.
-6043752		6046755		Cette colline, je suis le premier à la gravir.
-6048131		6051551		En 4,5 milliards d'années, jamais personne.
-6052344		6053511		Et maintenant,
-6054095		6055138		moi.
-6056389		6059851		Je suis le premier à me retrouver seul sur une planète entière.
-6074991		6076451		Comment il va ?
-6078119		6079537		Jusqu'ici, ça va.
-6079829		6081831		Il suit les horaires prévus.
-6082248		6084417		Il roule 4 heures avant midi,
-6085335		6088797		il attend 13 heures que les panneaux solaires se rechargent,
-6088838		6092801		il dort un peu pendant ce temps-là et il se remet en route.
-6094969		6096012		Comment il va ?
-6098473		6101101		Il veut qu'on l'appelle Capitaine Barbe-Blonde.
-6103228		6105188		Les lois maritimes...
-6105230		6106481		Il nous l'a expliqué.
-6108775		6109651		Il est où ?
-6111194		6111986		Là.
-6219719		6223223		Vous n'allez pas aimer ce que vous allez entendre.
-6225600		6228103		Le souci, c'est la vitesse d'interception.
-6228144		6229396		L'Hermès
-6230563		6233024		ne peut pas entrer en orbite autour de Mars.
-6233066		6236194		Il n'aurait plus assez de carburant pour rentrer.
-6236486		6239572		Le VAM n'est conçu que pour se positionner
-6239614		6240824		en orbite basse.
-6241157		6246663		Pour que Mark échappe à la gravitation et intercepte l'Hermès...
-6246705		6248581		Il lui faudra de la vitesse.
-6248623		6251167		Donc, il faut alléger le VAM.
-6251209		6253670		Considérablement. De 5 000 kg.
-6253712		6254963		Vous pouvez le faire ?
-6255005		6257090		Déjà, il y a des choses évidentes :
-6257132		6260135		le VAM est censé transporter 500 kg de sol martien.
-6260510		6261886		On fait une croix dessus.
-6262262		6265890		Et il n'y aura qu'un passager au lieu de six.
-6265932		6268643		Combis, équipement, ça fait... 500 kg ?
-6268685		6270729		On vire le système de survie.
-6270770		6272647		Mark portera sa combi d'AEV.
-6273481		6276109		En combi, comment il va manœuvrer ?
-6277277		6278278		Pas besoin.
-6278319		6282073		C'est Martinez qui pilotera le VAM depuis l'Hermès.
-6282115		6284784		On n'a jamais piloté un vaisseau habité à distance.
-6287454		6290540		Ravi d'imaginer les horizons que ça va nous ouvrir.
-6290915		6293460		Du coup, on enlève le tableau de bord,
-6293501		6295837		la comm secondaire et tertiaire...
-6296338		6300425		Une ascension pilotée à distance sans comm de secours ?
-6302677		6305263		Et il a pas abordé le plus méchant.
-6305305		6306514		Allez-y, alors !
-6307140		6310268		Il faut enlever le sas frontal, les hublots
-6310310		6311561		et le panneau 19.
-6313355		6314939		Retirer l'avant du vaisseau ?
-6314981		6316066		Oui.
-6316107		6318526		Le sas frontal pèse 400 kg.
-6319069		6321529		Vous le lancez dans un vaisseau ouvert ?
-6321571		6322405		Non.
-6323865		6326951		Le trou sera recouvert de la toile de l'Habitat.
-6328578		6331498		La coque sert à empêcher l'air de sortir.
-6331539		6334709		Sur Mars, l'atmosphère offre peu de résistance.
-6334751		6338171		Quand il ira assez vite pour que la résistance le gêne,
-6338213		6340799		il sera tellement haut qu'il n'y aura plus d'air.
-6340840		6343385		Vous l'envoyez dans l'espace sous une bâche.
-6343635		6344552		Oui.
-6345845		6346888		Je continue ?
-6347555		6348515		Non.
-6350308		6352352		Vous déconnez, les mecs ?
-6355105		6356940		À votre avis, il veut dire :
-6357816		6359150		"Vous déconnez, les mecs ?"
-6360985		6361820		Ou plutôt :
-6362445		6364072		"Vous déconnez, les mecs !"
-6365031		6366658		Je penche pour la 2e version.
-6368660		6369786		Ou la première.
-6371246		6372872		"Vous déconnez, les mecs ?"
-6372914		6374541		Oui, c'est peut-être ça.
-6388138		6392267		CRATÈRE DE SCHIAPARELLI Site d'atterrissage d'Arès 4
-6398898		6400608		Je sais ce qu'ils font.
-6402152		6404362		Je sais exactement ce qu'ils font.
-6404863		6406656		Ils me répètent en boucle :
-6406698		6409492		"L'astronaute le plus rapide de l'Histoire."
-6409993		6413288		Pour pas que je me dise que c'est un plan de malades.
-6414956		6418543		C'est sûr, je serai l'astronaute le plus rapide de l'Histoire :
-6418585		6420211		vous m'envoyez dans l'espace
-6420253		6421588		en décapotable.
-6421838		6425091		Pire : je le piloterai même pas, l'engin.
-6425592		6427635		Et à propos, les physiciens,
-6428303		6431097		quand ils décrivent l'accélération,
-6431139		6433433		n'emploient pas le mot "rapide".
-6434434		6438646		S'ils l'emploient, c'est pour que je ne m'oppose pas
-6439647		6441149		à cette folie.
-6442484		6446654		J'aime l'expression "l'astronaute le plus rapide de l'Histoire".
-6448698		6450492		Je l'aime beaucoup.
-6451951		6453495		Je la kiffe grave.
-6456331		6458124		Mais je leur dirai pas.
-6464422		6465423		Allez.
-6467133		6468218		C'est parti.
-6619994		6625208		Beck, Vogel, vous serez dans le sas 2, porte ouverte, avant que le VAM décolle.
-6625250		6627043		Martinez pilote le VAM.
-6627335		6629295		Johanssen gère l'ascension.
-6629337		6631297		Une fois à l'interception,
-6631339		6633299		Beck sort chercher Watney.
-6633341		6635552		- On est prêts. - Comment on l'intercepte ?
-6636511		6638888		On a relié les câbles entre eux.
-6638930		6641182		On arrive à 214 m.
-6641224		6643518		Avec le MMU, je me déplacerai facilement.
-6643852		6645645		Vitesse relative maximum ?
-6647022		6649232		Je peux agripper le VAM à 5 m/s.
-6649691		6653528		Au-delà de 10, c'est comme un train en marche, je risque de louper.
-6653862		6655613		On aura un peu de marge :
-6657365		6659034		le décollage prend 12 min
-6659492		6662662		et on aura 52 min avant l'interception.
-6662704		6665165		Quand son moteur s'éteindra, on connaîtra
-6665206		6667500		le point d'interception et la vélocité.
-6667876		6669461		Vogel, vous assistez Beck.
-6669502		6672213		Si tout va bien, vous les ramenez avec le câble.
-6672255		6675050		Si ça tourne mal, vous allez le chercher.
-6679721		6681222		Allons le récupérer.
-6716758		6720303		Prenez soin de ce rover. Il m'a sauvé la vie.
-6743493		6746621		La tension et l'anxiété sont palpables.
-6746955		6750291		Une foule est venue voir ici
-6750333		6754295		si la mission de sauvetage de Mark Watney sera couronnée de succès.
-6754796		6758091		Leurs contacts avec lui sont limités.
-6758133		6760677		Et gardez à l'esprit que nous sommes
-6760719		6761803		en direct.
-6761845		6764014		Nous vous tiendrons informés
-6764055		6765557		du déroulement des faits.
-6765598		6766558		Écoutons
-6766599		6768810		la Nasa établir le contact
-6768852		6770520		avec Mark Watney.
-6777485		6779738		Que peut faire le Centre de contrôle ?
-6780405		6781656		Que dalle.
-6782991		6785201		Ils sont à 12 minutes-lumière.
-6785243		6788496		Nos réponses mettent 24 min à leur parvenir.
-6789831		6792208		Le lancement prend 12 min, donc...
-6793626		6795253		ils sont livrés à eux-mêmes.
-6847055		6850141		QG de la CNSA - Pékin
-6858983		6860318		TRAFALGAR SQUARE LONDRES
-6860360		6862237		... Mark est totalement seul sur Mars.
-6862278		6865490		Un expert psychologue nous expliquera...
-6888346		6889764		Pression du carburant, OK.
-6890432		6892475		Alignement des moteurs, impeccable.
-6892767		6894602		Communications, 5 sur 5.
-6895645		6898440		Parés pour la check-list finale, commandant.
-6899065		6901443		Contrôle, ici l'Hermès.
-6901484		6903403		Nous lancerons à l'heure prévue.
-6903445		6906781		Lancement dans H moins 2 min et 10 secondes.
-6908199		6909159		2 minutes.
-6909200		6910744		Comment ça va ?
-6910785		6911911		Ça va.
-6912704		6914622		J'ai hâte de vous rejoindre.
-6915165		6917542		- Merci d'être revenus. - On est sur le coup.
-6917584		6921129		Vous allez encaisser du G, vous pourriez perdre connaissance.
-6921171		6923840		Vous êtes dans les mains de Martinez.
-6923882		6925800		Qu'il évite les tonneaux, l'enfoiré.
-6927385		6928553		Bien reçu, VAM.
-6929137		6930138		Capcom.
-6931389		6932557		Commande à distance ?
-6933308		6934517		Récupération ?
-6935518		6936978		Récupération auxiliaire ?
-6938104		6939022		Pilote ?
-6941733		6942776		Pilote ?
-6944361		6945236		Bien reçu.
-6946571		6948823		Contrôle, nous sommes prêts au lancement.
-6949824		6950825		H - 10...
-6951951		6952994		Allumage moteur.
-6956039		6957749		Pinces d'amarrage décrochées.
-6957791		6959501		5 secondes. On y est.
-6959542		6961044		À tout de suite, commandant.
-6961378		6962462		4...
-6963254		6964381		3...
-6964964		6966007		2...
-6966591		6967258		1.
-7003795		7006172		Vélocité : 741 mètres par seconde.
-7006214		7008341		Altitude : 1 350 mètres.
-7008383		7009676		C'est trop bas.
-7009718		7010719		Il me résiste.
-7014681		7015724		Watney...
-7017058		7018226		vous m'entendez ?
-7023898		7025233		Séparation booster.
-7025525		7026985		Vélocité : 850.
-7027027		7028570		Altitude : 1 843.
-7028611		7029946		Il est trop bas.
-7029988		7031072		De combien ?
-7031698		7032699		Je vérifie.
-7033575		7034576		Watney.
-7035285		7036077		Vous m'entendez ?
-7036911		7040498		Il est dans les vapes, il s'est mangé 12 G. Attendez.
-7040540		7041624		Bien reçu.
-7044085		7045253		Extinction moteur dans 3...
-7046087		7047547		2... 1...
-7048423		7049299		Extinction.
-7051051		7052886		Retour sur guidage automatique.
-7053470		7054846		Extinction confirmée.
-7057349		7059100		Carburant épuisé.
-7061061		7062062		Watney,
-7062771		7063813		vous m'entendez ?
-7064939		7067567		Il y a un petit problème de transmission.
-7074783		7076284		Je reçois des signaux.
-7076534		7078578		Vélocité d'interception : 11 m/s.
-7078870		7080288		Je peux y arriver.
-7081164		7083291		La distance à l'interception sera...
-7083917		7085502		de 68 kilomètres.
-7086086		7087671		68 kilomètres ?
-7088088		7090298		Elle a bien dit 68 kilomètres ?
-7091299		7093176		Allez, on cherche une solution.
-7094052		7095679		Combien de temps ?
-7096388		7098139		39 minutes 12 secondes.
-7098807		7099808		Martinez,
-7099849		7102686		on peut se propulser dans la même direction ?
-7102727		7105230		Ça dépend du carburant à garder
-7105271		7106731		pour le retour.
-7106773		7108024		Combien en faut-il ?
-7108066		7109567		Je peux me contenter
-7109609		7112320		de 20 % de ce qui nous reste.
-7113321		7116700		Avec 75,5 % du carburant d'ajustement,
-7116741		7119119		on ramène la distance d'interception à zéro.
-7119160		7120370		On y va.
-7120870		7123957		Attendez, ça ramène la distance à zéro,
-7123998		7126835		mais la vélocité sera de 42 m/s.
-7126876		7128336		C'est beaucoup trop.
-7129087		7132382		On a 39 minutes pour trouver comment ralentir.
-7135593		7137220		Enclenchez les verniers.
-7137554		7138555		Bien reçu.
-7161411		7163163		VAM à l'Hermès.
-7163580		7164581		Watney ?
-7164622		7165749		Affirmatif.
-7169711		7170962		Vos constantes ?
-7171671		7172839		J'ai mal à la poitrine.
-7173548		7174758		J'ai des côtes cassées.
-7175717		7176926		Et vous ?
-7176968		7179763		On s'approche, il y a eu une complication.
-7179804		7181139		Bien reçu.
-7181806		7183350		C'est grave ?
-7183391		7186811		On a corrigé la distance, mais on a un problème de vélocité.
-7187228		7188521		Un gros problème ?
-7188563		7189939		42 m/s.
-7192817		7193818		Merde.
-7199199		7201201		Commandant, j'ai une idée.
-7201242		7202452		Je vous écoute.
-7204079		7205955		Avec un truc pointu,
-7205997		7208875		je pourrais trouer le gant de ma combi.
-7208917		7211586		L'air qui s'échapperait me propulserait
-7211628		7213171		vers vous.
-7213213		7216091		Ce serait facile à contrôler, sur mon bras.
-7216508		7218426		Vous n'auriez aucun contrôle.
-7218468		7222597		Vous navigueriez au jugé. Le vecteur de poussée serait aléatoire.
-7222931		7226184		Oui, ce sont de très bonnes remarques.
-7226893		7227852		Mais
-7228311		7229771		d'un autre côté,
-7231731		7234192		ça me ferait voler comme Iron Man.
-7235860		7237195		Commandant ?
-7237445		7238905		On se fait Iron Man.
-7242075		7245328		- Perte de signal. - Communication interrompue.
-7246621		7249249		Ce n'est pas une si mauvaise idée.
-7249290		7251251		C'est la pire idée qui soit.
-7251292		7252460		Pas ce qu'il a dit.
-7252711		7254629		L'atmosphère comme propulseur.
-7256965		7258591		On peut faire sauter le SV ?
-7258925		7260885		Ouvrir le sas véhiculaire ?
-7261261		7264347		- Ça nous propulserait. - Mais la coiffe sauterait...
-7264389		7267434		Et l'air s'échapperait. Sans air, on meurt.
-7267475		7270937		On scellerait la passerelle. Le vide se ferait ailleurs.
-7271771		7272689		Vogel.
-7272731		7273982		Oui, commandant ?
-7274441		7276943		Rentrez nous fabriquer une... bombe.
-7277819		7278778		Pardon ?
-7278820		7281656		Vous êtes chimiste. On a de quoi faire une bombe ?
-7283366		7284659		Probablement.
-7285785		7289122		Mais je rappelle que déclencher un engin explosif
-7289164		7291791		dans un vaisseau spatial est une très mauvaise idée.
-7292417		7294836		Vous fabriquez une bombe sans moi ?
-7295253		7297172		Bien reçu. Vous pouvez le faire ?
-7303636		7306806		Nous allons délibérément détruire le sas véhiculaire
-7306848		7308350		pour inverser la poussée.
-7309684		7313313		Beck, rejoignez Johanssen dans le sas 1, porte extérieure ouverte.
-7313355		7317817		Placez la charge sur la porte intérieure et revenez au sas 2.
-7317859		7319778		Reçu. J'y vais.
-7326993		7328453		Je suis rentré, commandant.
-7328703		7329537		Bien reçu.
-7338880		7340298		Vogel, t'es où ?
-7340715		7342008		Dans la cuisine.
-7346638		7347681		Commandant !
-7348056		7351810		Ne faites pas ça. Je suis prêt à trouer ma combi.
-7351851		7353561		Il n'en est pas question.
-7353603		7355397		Le truc, c'est que je suis égoïste.
-7355855		7358608		Je veux toutes les commémorations pour moi.
-7358650		7359776		Moi tout seul.
-7359818		7361820		J'aurais dû le laisser sur Mars.
-7366408		7367283		Du sucre ?
-7372539		7373832		Tiens-moi ça.
-7374499		7375917		De l'oxygène liquide
-7376501		7378837		mélangé à du détachant qui contient
-7378878		7380046		de l'ammoniac.
-7383425		7384509		Ce truc-là,
-7385260		7388263		c'est 5 fois plus puissant qu'un bâton de dynamite.
-7388304		7389681		Ça s'active comment ?
-7389723		7392350		Connecte ça à un panneau lumineux.
-7396312		7397313		Attention.
-7403903		7405321		Ouverture sas 1.
-7411161		7412287		Je rejoins Beck.
-7416750		7418543		Espérons que ça tienne la route.
-7418877		7420795		- C'est sûr. - Ouverture A1.
-7431014		7432182		Tu la tiens ?
-7438146		7440732		Barre-toi avant que ça explose.
-7444152		7445904		Attention, dehors,
-7445945		7447030		dans l'espace.
-7451326		7453328		Dis à personne que j'ai fait ça.
-7463380		7464381		Bombe en place.
-7473181		7475475		Je quitte le sas 1.
-7480563		7483024		Même si l'explosion se passe bien,
-7483400		7484651		l'angle sera pas bon.
-7485068		7487696		Distance d'interception ? Johanssen ?
-7487987		7490407		260 mètres, approximativement.
-7490448		7491616		C'est trop.
-7500792		7501835		Commandant !
-7502210		7503753		Fermez le sas !
-7507590		7508883		Ouvrez D3.
-7509509		7510802		Laissez ouvert.
-7540040		7541458		Ouvrez B2.
-7546046		7546921		Johanssen,
-7547255		7549674		délai avant explosion, une fois activée ?
-7549716		7550759		15 secondes.
-7551259		7553053		On aime vivre dangereusement.
-7554262		7555055		Commandant.
-7555305		7557098		C'est trop loin. J'y vais.
-7558016		7559976		- J'y arriverai. - Ne discutez pas.
-7560018		7561519		Assez de vies risquées.
-7562103		7563313		Beck est revenu.
-7563730		7565273		Johanssen, activez la bombe.
-7565774		7566775		10 secondes.
-7567067		7567942		Attachez-vous.
-7568777		7569778		5...
-7570153		7570862		4...
-7571863		7572655		3...
-7572697		7574282		Parés pour décélération.
-7575116		7575909		1.
-7575950		7577410		Activation panneau 41.
-7599391		7600600		Passerelle intacte.
-7600850		7601851		Dégâts ?
-7601893		7603228		On verra plus tard.
-7603269		7604896		Vélocité relative ?
-7604938		7605980		12 m/s.
-7606690		7607607		Bien reçu.
-7610610		7611861		Attachez-moi.
-7613071		7613988		C'est fait.
-7624124		7625667		J'ai le VAM en visuel.
-7627168		7628670		Distance d'interception ?
-7629129		7630171		Je vérifie.
-7631339		7632882		312 mètres.
-7632924		7634926		T'as bien dit 312 ?
-7635552		7637804		Super, je vous ferai coucou en passant.
-7647397		7649190		Vous êtes trop loin, Mark.
-7649232		7651151		- Je ne vais pas y arriver. - Je sais.
-7651401		7652944		Beck, détachez-moi.
-7653319		7654320		Commandant,
-7654612		7655822		laissez-moi faire.
-7669878		7671129		Situation ?
-7671755		7673048		J'arrive, commandant.
-7673757		7674591		Merde.
-7684559		7686728		Quelle est ma vélocité relative ?
-7687062		7688730		5,2 m/s.
-7689022		7690482		J'ajuste la trajectoire.
-7696488		7698031		3,1 m/s.
-7700867		7702786		Distance : 24 mètres.
-7704954		7706456		11 mètres.
-7709584		7710251		6 mètres.
-7722222		7723223		Accrochez-vous !
-7751084		7751918		Je le tiens.
-7755005		7756089		Je le tiens.
-7757215		7758049		Je le tiens.
-7758466		7760010		Bien joué, Iron Man.
-7763138		7764347		Beck, ramenez-nous.
-7767684		7769102		Content de vous revoir.
-7771062		7771980		Vous...
-7774024		7777110		avez des goûts de chiotte, niveau musique.
-7786995		7788997		Houston, ici l'Hermès.
-7789039		7789998		On l'a récupéré.
-7792167		7793376		Watney est sain et sauf.
-7798840		7800925		Un contact dans l'espace avec Watney.
-7800967		7802927		Après une si longue attente,
-7802969		7805347		ils ont réussi l'impossible.
-7805388		7809142		C'est confirmé : Mark Watney est sauvé.
-7813021		7814522		Attrapez-le.
-7816775		7818026		Salut, bogosse !
-7818068		7819486		Fermez l'écoutille.
-7822864		7824115		Salut, les mecs !
-7828953		7831956		Les 6 membres de l'équipage sont à bord.
-7835502		7837796		C'est un grand moment pour la nation,
-7837837		7839756		pour le monde et bien sûr,
-7839798		7841758		pour la conquête spatiale internationale.
-7842217		7844552		C'est fou comme tout vous réussit.
-7852143		7853520		Ça sent pas la rose !
-7854312		7857232		Je me suis pas douché depuis un an et demi !
-7857565		7859776		Me faites pas rire, j'ai des côtes cassées.
-7894019		7895270		Salut, toi.
-7903695		7904612		Monsieur.
-7905113		7906281		Très honoré, monsieur...
-7920670		7923006		JOUR 1
-7932515		7934642		Bienvenue à l'École supérieure d'astronautique.
-7935477		7937270		Écoutez-moi bien.
-7937312		7939439		Ça pourrait vous sauver la vie.
-7939481		7941024		Et je sais de quoi je parle.
-7942275		7944486		Deux ou trois choses, d'abord.
-7944527		7948281		Oui, j'ai survécu sur une planète déserte
-7948323		7950867		en cultivant des patates dans ma propre merde.
-7951534		7955663		Oui, c'est pire que ça en a l'air, alors on évitera le sujet.
-7957165		7959876		L'autre question qu'on me pose, c'est...
-7960335		7962962		quand j'étais là-haut, abandonné,
-7963004		7965131		me disais-je que j'allais mourir ?
-7965924		7967676		Oui, absolument.
-7968510		7971471		Autant vous le dire tout de suite, ça vous arrivera.
-7972055		7975350		On est dans l'espace. Il est pas coopératif.
-7975642		7978520		Y a forcément un moment où tout part en vrille.
-7978561		7981648		Tout part en vrille et on se dit : "Ça y est,
-7981690		7983233		mon heure est venue."
-7984693		7986111		Soit on l'accepte,
-7986736		7988446		soit on se met au boulot.
-7989781		7991658		C'est aussi simple que ça.
-7991700		7993493		Il faut s'y mettre.
-7994452		7997122		On réfléchit, on règle un problème,
-7997539		7998957		et on passe au suivant.
-7999541		8003128		Et au suivant. Si on en règle assez, on peut rentrer.
-8005213		8006256		Des questions ?
-8011219		8013722		Après la check-list finale,
-8013763		8015974		nous procéderons au lancement.
-8016016		8019728		L'équipage d'Arès 5 rejoindra l'Hermès approximativement
-8019769		8021730		48 minutes après le décollage.
-8021771		8023940		L'équipage aura 414 jours
-8023982		8025525		à passer dans l'espace.
-8025567		8029863		L'objectif a-t-il changé, depuis la mission précédente, pour Arès 5 ?
-8029904		8032032		Quels résultats espérez-vous obtenir ?
-8032073		8033783		Les objectifs sont les mêmes
-8033825		8036369		quelles que soient les missions Arès,
-8036411		8040081		mais cette fois, nous espérons ramener tout l'équipage d'un coup.
-8040415		8042250		Guidage : contrôles corrects.
-8042292		8043710		Reçu, Guidage.
-8043752		8045253		À tous de DDO,
-8045295		8046796		parés au lancement.
-8046838		8050175		Paramètres corrects, servo vérins conformes à l'attendu.
-8050216		8052177		CAG dans les limites.
-8052218		8053178		C'est exact.
-8053219		8054596		Comm équipage correcte.
-8058016		8060393		Contrôle final des ailerons effectué.
-8060435		8063438		Tout est prêt pour le lancement d'Arès 5.
-8064147		8065273		20 secondes.
-8066816		8068568		Attention, pour le décompte.
-8068610		8070779		H moins 10, 9...
-8071321		8072614		Allumage moteur principal.
-8080121		8081498		Et décollage.
-8081539		8083917		L'équipage d'Arès 5
-8083958		8087462		entame un nouveau chapitre de la conquête spatiale américaine.
-8101434		8104771		Centrales inertielles alignées. Précision GPS correcte.
-8108358		8109401		Joli.
-8109442		8113238		C'est parti. 5 ans après le sauvetage de Mark Watney,
-8113279		8116199		Arès 5 est en route pour Mars.
-8480939		8481981		Sous-titres : Maï Boiron & Jean-Marc Pannetier
-8482023		8482941		Sous-titrage : Monal Group
+0		68.151		Silence
+72.113		124.29		Silence
+198.74		205.413		Silence
+220.762		227.352		Silence
+231.564		233.65		Silence
+270.478		281.281		Silence
+284.743		288.204		Silence
+294.627		297.339		Silence
+299.924		324.574		Silence
+338.588		342.008		Silence
+342.717		344.803		Silence
+390.724		394.144		Silence
+408.033		410.535		Silence
+438.813		443.109		Silence
+459.334		461.378		Silence
+464.381		468.468		Silence
+471.221		474.933		Silence
+476.059		497.956		Silence
+499.124		503.044		Silence
+513.221		554.929		Silence
+604.646		636.845		Silence
+638.972		734.317		Silence
+735.86		916.624		Silence
+917.459		951.701		Silence
+983.316		986.528		Silence
+1042.625		1159.159		Silence
+1160.702		1201.076		Silence
+1204.704		1206.831		Silence
+1213.922		1239.28		Silence
+1243.868		1254.462		Silence
+1280.155		1282.907		Silence
+1284.409		1287.829		Silence
+1292.625		1296.546		Silence
+1298.506		1337.462		Silence
+1339.047		1349.766		Silence
+1351.184		1401.276		Silence
+1402.694		1418.126		Silence
+1419.586		1481.69		Silence
+1557.807		1560.226		Silence
+1561.603		1595.428		Silence
+1613.697		1616.7		Silence
+1621.663		1626.459		Silence
+1645.02		1726.601		Silence
+1727.769		1738.279		Silence
+1759.592		1762.762		Silence
+1765.682		1769.561		Silence
+1776.86		1780.071		Silence
+1843.093		1848.431		Silence
+1872.163		1887.762		Silence
+1891.433		1897.48		Silence
+1901.901		1904.154		Silence
+1908.742		1911.619		Silence
+1915.749		1919.461		Silence
+1921.296		1933.058		Silence
+1933.85		1949.199		Silence
+1959		1964.381		Silence
+1971.596		1973.682		Silence
+2041.875		2044.919		Silence
+2059.351		2063.396		Silence
+2075.116		2077.202		Silence
+2082.999		2085.335		Silence
+2097.597		2103.603		Silence
+2125.709		2127.711		Silence
+2163.788		2191.9		Silence
+2193.276		2198.198		Silence
+2229.604		2231.69		Silence
+2233.358		2246.079		Silence
+2302.761		2337.962		Silence
+2346.805		2349.182		Silence
+2367.158		2370.161		Silence
+2415.04		2418.209		Silence
+2512.387		2534.034		Silence
+2535.493		2564.272		Silence
+2584.292		2586.628		Silence
+2587.629		2591.299		Silence
+2592.634		2601.226		Silence
+2614.155		2623.665		Silence
+2626.459		2656.823		Silence
+2663.079		2665.123		Silence
+2667.625		2702.118		Silence
+2729.813		2745.787		Silence
+2751.459		2757.132		Silence
+2758.466		2852.185		Silence
+2857.315		2860.402		Silence
+2861.653		2864.406		Silence
+2865.156		2915.123		Silence
+2916.374		2919.961		Silence
+2924.424		2927.218		Silence
+2943.818		2958.833		Silence
+2977.102		2980.48		Silence
+2999.249		3011.761		Silence
+3012.846		3017.35		Silence
+3044.919		3065.19		Silence
+3067.275		3108.358		Silence
+3110.276		3115.365		Silence
+3119.494		3128.962		Silence
+3132.59		3139.431		Silence
+3140.432		3145.437		Silence
+3172.213		3186.478		Silence
+3211.753		3232.857		Silence
+3234.484		3241.7		Silence
+3244.119		3256.589		Silence
+3260.552		3276.901		Silence
+3279.404		3281.781		Silence
+3287.996		3294.627		Silence
+3295.837		3304.721		Silence
+3316.441		3341.049		Silence
+3348.515		3351.101		Silence
+3360.86		3363.78		Silence
+3364.656		3377.085		Silence
+3386.803		3388.847		Silence
+3401.526		3403.903		Silence
+3405.363		3408.616		Silence
+3412.954		3429.471		Silence
+3437.479		3450.617		Silence
+3457.499		3468.176		Silence
+3489.447		3493.41		Silence
+3503.962		3506.047		Silence
+3541.875		3547.464		Silence
+3566.524		3570.028		Silence
+3571.613		3581.289		Silence
+3599.766		3602.06		Silence
+3627.085		3632.257		Silence
+3653.695		3683.725		Silence
+3739.447		3784.993		Silence
+3787.12		3795.295		Silence
+3797.505		3811.394		Silence
+3813.229		3828.745		Silence
+3831.164		3840.715		Silence
+3842.55		3958.667		Silence
+3960.168		3994.202		Silence
+3996.871		4016.057		Silence
+4072.364		4080.163		Silence
+4082.624		4091.174		Silence
+4102.727		4106.606		Silence
+4112.987		4115.365		Silence
+4132.048		4134.592		Silence
+4136.136		4140.348		Silence
+4176.509		4179.387		Silence
+4180.972		4270.77		Silence
+4272.272		4312.52		Silence
+4314.23		4319.402		Silence
+4322.364		4339.547		Silence
+4343.51		4351.393		Silence
+4352.394		4355.146		Silence
+4364.989		4370.036		Silence
+4394.102		4396.438		Silence
+4400.066		4402.444		Silence
+4404.237		4409.2		Silence
+4410.41		4422.088		Silence
+4423.965		4430.013		Silence
+4467.801		4472.347		Silence
+4506.715		4511.636		Silence
+4520.061		4524.107		Silence
+4526.86		4528.903		Silence
+4530.572		4540.999		Silence
+4544.044		4547.589		Silence
+4552.677		4556.014		Silence
+4557.265		4563.229		Silence
+4584.626		4587.17		Silence
+4596.971		4599.808		Silence
+4601.309		4603.645		Silence
+4604.521		4606.606		Silence
+4607.816		4610.402		Silence
+4611.528		4615.824		Silence
+4617.45		4630.88		Silence
+4637.22		4645.729		Silence
+4668.752		4677.302		Silence
+4680.263		4684.142		Silence
+4701.743		4705.705		Silence
+4707.749		4730.438		Silence
+4760.26		4762.595		Silence
+4771.98		4774.566		Silence
+4776.276		4779.112		Silence
+4780.697		4784.701		Silence
+4786.077		4788.83		Silence
+4791.082		4793.126		Silence
+4798.506		4803.136		Silence
+4804.721		4807.015		Silence
+4838.38		4840.382		Silence
+4861.194		4863.863		Silence
+4888.054		4890.974		Silence
+4894.936		4898.44		Silence
+4899.357		4906.698		Silence
+4922.964		4942.734		Silence
+4954.746		4957.082		Silence
+5008.55		5013.138		Silence
+5023.606		5029.237		Silence
+5050.175		5054.012		Silence
+5064.647		5067.233		Silence
+5074.449		5076.743		Silence
+5089.381		5093.301		Silence
+5094.678		5099.766		Silence
+5102.018		5104.104		Silence
+5106.648		5114.114		Silence
+5184.726		5186.77		Silence
+5188.646		5207.123		Silence
+5215.465		5237.278		Silence
+5244.953		5247.956		Silence
+5248.832		5255.63		Silence
+5256.631		5258.8		Silence
+5263.596		5266.474		Silence
+5278.361		5283.783		Silence
+5306.473		5309.392		Silence
+5402.902		5405.196		Silence
+5417.083		5419.461		Silence
+5426.468		5429.095		Silence
+5430.43		5433.35		Silence
+5435.977		5440.19		Silence
+5499.416		5501.751		Silence
+5510.427		5512.679		Silence
+5520.02		5523.565		Silence
+5527.068		5530.488		Silence
+5558.892		5562.479		Silence
+5591.257		5645.562		Silence
+5647.105		5651.359		Silence
+5657.657		5664.164		Silence
+5669.919		5679.387		Silence
+5686.853		5690.148		Silence
+5702.786		5851.81		Silence
+5854.646		5893.184		Silence
+5940.648		5970.512		Silence
+5972.013		6032.907		Silence
+6059.851		6074.991		Silence
+6092.801		6094.969		Silence
+6096.012		6098.473		Silence
+6101.101		6103.228		Silence
+6106.481		6108.775		Silence
+6111.986		6219.719		Silence
+6223.223		6225.6		Silence
+6284.784		6287.454		Silence
+6300.425		6302.677		Silence
+6352.352		6355.105		Silence
+6366.658		6368.66		Silence
+6374.541		6388.138		Silence
+6392.267		6398.898		Silence
+6446.654		6448.698		Silence
+6453.495		6456.331		Silence
+6458.124		6464.422		Silence
+6468.218		6619.994		Silence
+6675.05		6679.721		Silence
+6681.222		6716.758		Silence
+6720.303		6743.493		Silence
+6770.52		6777.485		Silence
+6795.253		6847.055		Silence
+6850.141		6858.983		Silence
+6865.49		6888.346		Silence
+6939.022		6941.733		Silence
+6952.994		6956.039		Silence
+6967.258		7003.795		Silence
+7010.719		7014.681		Silence
+7018.226		7023.898		Silence
+7041.624		7044.085		Silence
+7054.846		7057.349		Silence
+7067.567		7074.783		Silence
+7132.382		7135.593		Silence
+7138.555		7161.411		Silence
+7165.749		7169.711		Silence
+7189.939		7192.817		Silence
+7193.818		7199.199		Silence
+7238.905		7242.075		Silence
+7254.629		7256.965		Silence
+7297.172		7303.636		Silence
+7319.778		7326.993		Silence
+7329.537		7338.88		Silence
+7342.008		7346.638		Silence
+7361.82		7366.408		Silence
+7367.283		7372.539		Silence
+7380.046		7383.425		Silence
+7392.35		7396.312		Silence
+7397.313		7403.903		Silence
+7405.321		7411.161		Silence
+7412.287		7416.75		Silence
+7420.795		7431.014		Silence
+7432.182		7438.146		Silence
+7440.732		7444.152		Silence
+7447.03		7451.326		Silence
+7453.328		7463.38		Silence
+7464.381		7473.181		Silence
+7475.475		7480.563		Silence
+7491.616		7500.792		Silence
+7503.753		7507.59		Silence
+7510.802		7540.04		Silence
+7541.458		7546.046		Silence
+7577.41		7599.391		Silence
+7607.607		7610.61		Silence
+7613.988		7624.124		Silence
+7637.804		7647.397		Silence
+7655.822		7669.878		Silence
+7674.591		7684.559		Silence
+7690.482		7696.488		Silence
+7698.031		7700.867		Silence
+7702.786		7704.954		Silence
+7706.456		7709.584		Silence
+7710.251		7722.222		Silence
+7723.223		7751.084		Silence
+7751.918		7755.005		Silence
+7760.01		7763.138		Silence
+7764.347		7767.684		Silence
+7771.98		7774.024		Silence
+7777.11		7786.995		Silence
+7789.998		7792.167		Silence
+7793.376		7798.84		Silence
+7809.142		7813.021		Silence
+7814.522		7816.775		Silence
+7819.486		7822.864		Silence
+7824.115		7828.953		Silence
+7831.956		7835.502		Silence
+7844.552		7852.143		Silence
+7859.776		7894.019		Silence
+7895.27		7903.695		Silence
+7906.281		7920.67		Silence
+7923.006		7932.515		Silence
+8003.128		8005.213		Silence
+8006.256		8011.219		Silence
+8054.596		8058.016		Silence
+8072.614		8080.121		Silence
+8087.462		8101.434		Silence
+8104.771		8108.358		Silence
+8116.199		8480.939		Silence
