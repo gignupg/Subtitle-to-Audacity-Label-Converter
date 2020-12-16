@@ -3,7 +3,7 @@ import { parse, map, filter } from 'subtitle';
 
 let previousEnd = 0;
 
-fs.createReadStream('./seul-sur-mars.srt', 'latin1')
+fs.createReadStream('./skam-s3-s2.srt', 'latin1')
   .pipe(parse())
   .pipe(map(node => {
     if (node.type === 'cue') {
@@ -26,7 +26,7 @@ fs.createReadStream('./seul-sur-mars.srt', 'latin1')
   .pipe(filter((elem) => {
     return elem;
   }))
-  .pipe(fs.createWriteStream('./my-subtitles.txt', 'latin1'));
+  .pipe(fs.createWriteStream('./new-audacity-label.txt', 'latin1'));
 
 
   function numberConverter(num) {
