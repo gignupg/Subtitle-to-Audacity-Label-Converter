@@ -5,7 +5,7 @@ let previousEnd = 0;
 
 fs.createReadStream('./seul-sur-mars.srt', 'latin1')
   .pipe(parse())
-  .pipe(map((node, index) => {
+  .pipe(map(node => {
     if (node.type === 'cue') {
       const prevEnd = previousEnd;
       const elem = node.data;
@@ -28,7 +28,7 @@ fs.createReadStream('./seul-sur-mars.srt', 'latin1')
   }))
   .pipe(fs.createWriteStream('./my-subtitles.txt', 'latin1'));
 
-  
+
   function numberConverter(num) {
     num = num.toString();
     return Number(num.slice(0, num.length - 3) + "." + num.slice(num.length - 3));
