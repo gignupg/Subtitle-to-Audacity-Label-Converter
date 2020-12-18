@@ -3,7 +3,7 @@ import { parse, map, filter } from 'subtitle';
 
 let previousEnd = 0;
 
-fs.createReadStream('./skam-s2-e09.srt', 'latin1')
+fs.createReadStream('./boca-norte-1.srt', 'latin1')
   .pipe(parse())
   .pipe(map(node => {
     if (node.type === 'cue') {
@@ -15,9 +15,9 @@ fs.createReadStream('./skam-s2-e09.srt', 'latin1')
 
       previousEnd = end; 
 
-      if (prevEnd || start > 1) {
-        if (start - prevEnd > 1) {
-          return `${prevEnd}\t\t${start}\t\tSilence\n`;
+      if (prevEnd || start > 2) {
+        if (start - prevEnd > 2) {
+          return `${prevEnd + 0.2}\t\t${start - 0.2}\t\tS\n`;
         }
       }
       return null;
