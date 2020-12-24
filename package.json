@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gignupg/subtitle-to-audacity-label-converter#readme",
   "dependencies": {
+    "detect-character-encoding": "^0.8.0",
     "subtitle": "^4.0.1"
   }
 }
