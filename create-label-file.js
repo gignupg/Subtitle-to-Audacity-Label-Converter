@@ -7,7 +7,10 @@ import detectCharacterEncoding from 'detect-character-encoding';
 const encodingTable = {
   "ISO-8859-1": "latin1",
   "UTF-8": "utf8"
-}
+};
+
+// Tested this with Twilight. See Detecting Music.mdn 
+const musicRegEx = new RegExp('♪');
 
 const homedir = os.homedir();
 
@@ -26,32 +29,38 @@ fs.readdir(downloadDir, function (err, files) {
       // Encoding
       const fileBuffer = fs.readFileSync(fileName);
       const fileEncoding = detectCharacterEncoding(fileBuffer);
-      
+
       let previousEnd = 0;
 
       fs.createReadStream(fileName, encodingTable[fileEncoding])
         .pipe(parse())
-        .pipe(map(node => {
+        .pipe(map((node) => {
           if (node.type === 'cue') {
-            const prevEnd = previousEnd;
+            const silenceStart = previousEnd;
             const elem = node.data;
 
-            const end = numberConverter(elem.end);
-            const start = numberConverter(elem.start);
+            const sentenceEnd = numberConverter(elem.end);
+            const sentenceStart = numberConverter(elem.start);
 
-            previousEnd = end;
+            // Spot music
+            const music = musicRegEx.test(elem.text);
 
-            if (prevEnd || start > 2) {
-              if (start - prevEnd > 2) {
-                return `${prevEnd + 0.9}\t\t${start - 0.9}\t\tS\n`;
-              }
+            // If it's music
+            if (music) {
+              return null
+            
+            // If it's text and the silence gap is bigger than 2 seconds
+            } else if (sentenceStart - silenceStart > 2) {
+              previousEnd = sentenceEnd;
+              return `${silenceStart + 0.5}\t\t${sentenceStart - 0.5}\t\tSilence\n`;
+
+            } else {
+              previousEnd = sentenceEnd;
+              return null;
             }
-            return null;
           }
         }))
-        .pipe(filter((elem) => {
-          return elem;
-        }))
+        .pipe(filter(elem => elem))
         .pipe(fs.createWriteStream(`${downloadDir}/new-audacity-label.txt`, encodingTable[fileEncoding]));
 
     } else {
