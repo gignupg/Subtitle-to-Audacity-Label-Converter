@@ -4,6 +4,13 @@ import path from 'path';
 import { parse, map, filter } from 'subtitle';
 import detectCharacterEncoding from 'detect-character-encoding';
 
+let space = 0;
+const firstArg = process.argv[2];
+
+if (firstArg && !isNaN(firstArg)) {
+  space = Number(firstArg);
+}
+
 const encodingTable = {
   "ISO-8859-1": "latin1",
   "UTF-8": "utf8"
@@ -47,12 +54,12 @@ fs.readdir(downloadDir, function (err, files) {
 
             // If it's music
             if (music) {
-              return null
-            
-            // If it's text and the silence gap is bigger than 2 seconds
+              return null;
+
+              // If it's text and the silence gap is bigger than 2 seconds
             } else if (sentenceStart - silenceStart > 2) {
               previousEnd = sentenceEnd;
-              return `${silenceStart + 0.5}\t\t${sentenceStart - 0.5}\t\tSilence\n`;
+              return `${silenceStart + space}\t\t${sentenceStart - space}\t\tSilence\n`;
 
             } else {
               previousEnd = sentenceEnd;
