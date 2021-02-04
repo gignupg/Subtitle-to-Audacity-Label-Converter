@@ -16,9 +16,6 @@ const encodingTable = {
   "UTF-8": "utf8"
 };
 
-// Tested this with Twilight. See Detecting Music.mdn 
-const musicRegEx = new RegExp('♪');
-
 const homedir = os.homedir();
 
 const downloadDir = path.join(homedir, '/Downloads');
@@ -45,15 +42,17 @@ fs.readdir(downloadDir, function (err, files) {
           if (node.type === 'cue') {
             const silenceStart = previousEnd;
             const elem = node.data;
+            const text = elem.text.replace(/\<\/*.*?\>/g, "");
 
             const sentenceEnd = numberConverter(elem.end);
             const sentenceStart = numberConverter(elem.start);
 
-            // Spot music
-            const music = musicRegEx.test(elem.text);
+            // Spot music and silence
+            const music = /♪/.test(text);
+            const includesWords = /\w/.test(text);
 
-            // If it's music
-            if (music) {
+            // If it's music or doesn't include any words
+            if (music || !includesWords) {
               return null;
 
               // If it's text and the silence gap is bigger than 2 seconds
@@ -61,8 +60,12 @@ fs.readdir(downloadDir, function (err, files) {
               previousEnd = sentenceEnd;
               return `${silenceStart + space}\t\t${sentenceStart - space}\t\tSilence\n`;
 
-            } else {
+              // If it's text and the silence gap is smaller or equal to 2 seconds
+            } else if (sentenceStart - silenceStart <= 2) {
               previousEnd = sentenceEnd;
+              return null;
+
+            } else {
               return null;
             }
           }
